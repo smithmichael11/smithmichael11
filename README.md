@@ -2,13 +2,13 @@
 <!-- Replace with your own banner image -->
 ![0A59EAF2-80E4-4094-B44F-C0043FFF57CC_1_105_c](https://github.com/smithmichael11/smithmichael11/assets/124108029/55bb7be5-78ce-4735-badd-6d5ebc5f1128)
 
-Welcome to my cyber fortress, where digital dragons fear to tread! Within these virtual walls, you'll discover the secrets of my cyber toolkit – from wielding firewalls like a seasoned warrior to outsmarting hackers with cunning code.
+Welcome to my cybersecurity portfolio. Here, you'll uncover the depth of my expertise and passion for cybersecurity through a variety of meticulously managed projects.
 
-Peruse through the treasure trove of my skills and projects, where each artifact tells a tale of triumph in the endless battle for digital sovereignty. Dive into the depths of my portfolio, where I unravel the mysteries of the cyber realm with wit and wisdom.
+Explore my diverse collection of videos showcasing various projects, each representing a significant milestone in the ongoing effort to ensure digital security. Delve into my portfolio to see my work and insights, presented with clarity and professionalism.
 
-Should you dare to venture further, you'll find the keys to unlock the gates of communication with me.
+If you're interested in connecting, you'll find all the necessary contact information here.
 
-So, fellow cyber-adventurer, strap on your virtual armor and prepare to journey through the labyrinth of my cybersecurity portfolio. Victory awaits those who dare to explore!
+Embark on this journey through my cybersecurity portfolio and discover the dedication and expertise that drive my commitment to safeguarding digital assets.
 
 ## Table of Contents
 
@@ -20,7 +20,40 @@ So, fellow cyber-adventurer, strap on your virtual armor and prepare to journey 
 
 ## About Me
 
-I am a passionate cybersecurity professional with a strong background in network security, ethical hacking, and risk management. As a graduate student at Western Governor's University, I am currently pursuing a degree in Cybersecurity and Information Assurance. In addition, I am participating in the Per Scholas Cybersecurity Cohort for the Summer 2024 session, which is enhancing my skills and knowledge in this dynamic field. My goal is to protect and secure digital assets by identifying vulnerabilities and implementing robust security measures.
+I am a dedicated cybersecurity professional with a robust background in network security, ethical hacking, and risk management. As a graduate student at Western Governors University, I am pursuing a Master of Science in Cybersecurity and Information Assurance. Additionally, I am participating in the Per Scholas Cybersecurity Cohort for the Summer 2024 session, further enhancing my skills and knowledge in this dynamic field. My goal is to safeguard digital assets by identifying vulnerabilities and implementing robust security measures.
+
+### Education & Certifications
+
+**Western Governors University**  
+*Present*  
+Master of Science in Cybersecurity and Information Assurance  
+*Relevant Coursework:*  
+- Security Operations
+- Security Foundation
+- Penetration Testing
+- Cybersecurity Management
+- Secure Network Design
+- Cloud Security
+- Cyber Architecture & Engineering
+- Governance Risk and Compliance
+
+**Georgia State University**  
+*Graduated May 2022*  
+Bachelor of Arts in Political Science  
+*Georgia Legislative Internship Program:*  
+- Georgia House of Representatives (2021) - Media Service Aide
+
+### Professional Experience
+
+**Per Scholas**  
+*Present*  
+Cybersecurity Cohort | Atlanta, GA
+
+- Enrolled in an intensive 20-week cybersecurity training program at Per Scholas, a highly respected nonprofit organization providing affordable, high-quality technology education and career opportunities.
+- Developed a deep understanding of fundamental cybersecurity concepts, including network security, risk assessment, vulnerability management, and incident response.
+- Gained hands-on experience with industry-standard security tools and technologies such as firewalls, IDS/IPS, SIEM platforms, and vulnerability scanning and remediation software.
+- Learned to effectively identify, analyze, and mitigate various cyber threats using a combination of technical skills and analytical thinking.
+- Participated in simulated cyber incident response scenarios and security exercises to enhance problem-solving skills, critical thinking abilities, and the capacity to work effectively under pressure.
 
 
 ## Certifications
@@ -88,7 +121,7 @@ In each video, I delve into various cybersecurity projects, extracting valuable 
 - **Description**: Acquired skills in user and group management within Kali Linux, covering essential commands and best practices for system administration and user access control.
 
 ## Contact
-Feel free to reach out to me via email or connect with me on LinkedIn.
+Feel free to connect with me on LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smithmichael11/)
 
