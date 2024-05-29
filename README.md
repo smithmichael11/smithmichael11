@@ -26,8 +26,7 @@ Coming Soon
 
 ### CompTIA Security+
 
-
-[CompTIA Security+ ce certificate.pdf](https://github.com/smithmichael11/smithmichael11/files/15489188/CompTIA.Security%2B.ce.certificate.pdf)
+![CompTIA Security+ ce certificate](https://github.com/smithmichael11/smithmichael11/assets/124108029/1d1e1e69-736b-4e0d-a9e3-62a797ff307c)
 
 
 ## YouTube Channel
