@@ -50,9 +50,13 @@ Bachelor of Arts in Political Science
 Cybersecurity Cohort | Atlanta, GA
 
 - Enrolled in an intensive 20-week cybersecurity training program at Per Scholas, a highly respected nonprofit organization providing affordable, high-quality technology education and career opportunities.
+  
 - Developed a deep understanding of fundamental cybersecurity concepts, including network security, risk assessment, vulnerability management, and incident response.
+  
 - Gained hands-on experience with industry-standard security tools and technologies such as firewalls, IDS/IPS, SIEM platforms, and vulnerability scanning and remediation software.
+  
 - Learned to effectively identify, analyze, and mitigate various cyber threats using a combination of technical skills and analytical thinking.
+  
 - Participated in simulated cyber incident response scenarios and security exercises to enhance problem-solving skills, critical thinking abilities, and the capacity to work effectively under pressure.
 
 
