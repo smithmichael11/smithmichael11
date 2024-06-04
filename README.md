@@ -20,7 +20,7 @@ Embark on this journey through my cybersecurity portfolio and discover the dedic
 
 ## About Me
 
-I am a dedicated cybersecurity professional with a robust background in network security, ethical hacking, and risk management. As a graduate student at Western Governors University, I am pursuing a Master of Science in Cybersecurity and Information Assurance. Additionally, I am participating in the Per Scholas Cybersecurity Cohort for the Summer 2024 session, further enhancing my skills and knowledge in this dynamic field. My goal is to safeguard digital assets by identifying vulnerabilities and implementing robust security measures.
+I am a dedicated cybersecurity professional with a healthy interest in network security, ethical hacking, and risk management. As a graduate student at Western Governors University, I am pursuing a Master of Science in Cybersecurity and Information Assurance. Additionally, I am participating in the Per Scholas Cybersecurity Cohort for the Summer 2024 session, further enhancing my skills and knowledge in this dynamic field. My goal is to safeguard digital assets by identifying vulnerabilities and implementing robust security measures.
 
 ### Education & Certifications
 
