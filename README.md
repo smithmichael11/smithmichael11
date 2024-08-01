@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 <!-- Replace with your own banner image -->
-![0A59EAF2-80E4-4094-B44F-C0043FFF57CC_1_105_c](https://github.com/smithmichael11/smithmichael11/assets/124108029/55bb7be5-78ce-4735-badd-6d5ebc5f1128)
+
 
 Welcome to my cybersecurity portfolio. Here, you'll uncover the depth of my expertise and passion for cybersecurity through a variety of meticulously managed projects.
 
@@ -47,9 +47,9 @@ Bachelor of Arts in Political Science
 
 **Per Scholas**  
 *Present*  
-Cybersecurity Cohort | Atlanta, GA
+Cybersecurity Analyst Training | Atlanta, GA
 
-- Enrolled in an intensive 20-week cybersecurity training program at Per Scholas, a highly respected nonprofit organization providing affordable, high-quality technology education and career opportunities.
+- Enrolled in an intensive 16-week cybersecurity training program at Per Scholas, a highly respected nonprofit organization providing affordable, high-quality technology education and career opportunities.
   
 - Developed a deep understanding of fundamental cybersecurity concepts, including network security, risk assessment, vulnerability management, and incident response.
   
