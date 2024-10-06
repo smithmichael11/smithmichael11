@@ -55,7 +55,9 @@ Cybersecurity Analyst Training Program | Atlanta, GA
 
 ## Certifications
 
-In 2024, I've significantly expanded my expertise in cybersecurity and network technologies, earning several industry-recognized certifications. My current certifications include CompTIA Security+, CompTIA Security Analytics Professional (CSAP), CompTIA CySA+, ISC2 CC (Certified in Cybersecurity), Splunk Core Certified User, Cisco Network Essentials, Cisco Cyber Security Essentials, and Cisco/NDG Linux Essentials. Additionally, I'm currently preparing for the CompTIA PenTest+ examination to further enhance my skill set. These certifications demonstrate my commitment to staying current with the latest technologies and best practices in the rapidly evolving field of cybersecurity. For verification or to view the digital badges for each certification, please visit my LinkedIn profile. I'm also happy to provide copies of these certifications upon request.
+In 2024, I've significantly expanded my expertise in cybersecurity and network technologies, earning several industry-recognized certifications. My current certifications include CompTIA Security+, CompTIA Security Analytics Professional (CSAP), CompTIA CySA+, ISC2 CC (Certified in Cybersecurity), Splunk Core Certified User, Cisco Network Essentials, Cisco Cyber Security Essentials, and Cisco/NDG Linux Essentials. 
+
+Additionally, I'm currently preparing for the CompTIA PenTest+ examination to further enhance my skill set. These certifications demonstrate my commitment to staying current with the latest technologies and best practices in the rapidly evolving field of cybersecurity. For verification or to view the digital badges for each certification, please visit my LinkedIn profile. I'm also happy to provide copies of these certifications upon request.
 
 -CompTIA Security+ 
 
@@ -90,7 +92,8 @@ This comprehensive plan addresses the complex challenges of merging two companie
 - Addressing emerging threats like ransomware and supply chain attacks
 - Implementation plan with timeline and budget allocation
 
-[View Full Document](link-to-your-document-1)
+[View Full Document]
+[D482 Secure Network Design- Performance Assessment.pdf](https://github.com/user-attachments/files/17267753/D482.Secure.Network.Design-.Performance.Assessment.pdf)
 
 
 #### 2. Incident Response Report: Design by Paradigm
@@ -104,7 +107,8 @@ A detailed incident response report for a simulated cybersecurity incident. High
 - Remediation steps taken to restore system functionality and network security
 - Lessons learned and recommendations for preventative actions
 
-[View Full Document](link-to-your-document-2)
+[View Full Document]
+[D483.Incident Reporting- Design.by.Paradigm.pdf](https://github.com/user-attachments/files/17267754/D483.Incident.Reporting-.Design.by.Paradigm.pdf)
 
 These academic works demonstrate my proficiency in:
 - Network security design and implementation
