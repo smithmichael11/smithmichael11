@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio
+# Michael's Tech Portfolio
 <!-- Replace with your own banner image -->
 
 # Welcome to My Technology and Security Portfolio
