@@ -43,13 +43,13 @@ Bachelor of Arts in Political Science
 *Georgia Legislative Internship Program:*  
 - Georgia House of Representatives (2021) - Media Service Aide
 
-### Professional Experience
+### Professional Cybersecurity Training
 
 **Per Scholas**  
 *Present*  
 Cybersecurity Analyst Training | Atlanta, GA
 
-- Enrolled in an intensive 16-week cybersecurity training program at Per Scholas, a highly respected nonprofit organization providing affordable, high-quality technology education and career opportunities.
+- Enrolled in an intensive 15-week cybersecurity training program at Per Scholas, a highly respected nonprofit organization providing affordable, high-quality technology education and career opportunities.
   
 - Developed a deep understanding of fundamental cybersecurity concepts, including network security, risk assessment, vulnerability management, and incident response.
   
@@ -62,67 +62,30 @@ Cybersecurity Analyst Training | Atlanta, GA
 
 ## Certifications
 
-### CompTIA Security+
-
 ![CompTIA Security+ ce certificate](https://github.com/smithmichael11/smithmichael11/assets/124108029/1d1e1e69-736b-4e0d-a9e3-62a797ff307c)
 
+[CompTIA Security Analytics Professional – CSAP.pdf](https://github.com/user-attachments/files/17267703/CompTIA.Security.Analytics.Professional.CSAP.pdf)
+
+[CompTIA CySA+ ce certificate.pdf](https://github.com/user-attachments/files/17267704/CompTIA.CySA%2B.ce.certificate.pdf)
+
+[ISC2-CC-Certified in Cybersecurity-Certification.pdf](https://github.com/user-attachments/files/17267705/ISC2-CC-Certified.in.Cybersecurity-Certification.pdf)
+
+[CompTIA CySA+ ce certificate.pdf](https://github.com/user-attachments/files/17267706/CompTIA.CySA%2B.ce.certificate.pdf)
+
+[Splunk.Certification.pdf](https://github.com/user-attachments/files/17267707/Splunk.Certification.pdf)
+
+[MichaelStapleton Smith-2024-RTT-29-NE-certificate.pdf](https://github.com/user-attachments/files/17267708/MichaelStapleton.Smith-2024-RTT-29-NE-certificate.pdf)
+
+[MichaelStapleton Smith-2024-RTT-29-CSE-certificate.pdf](https://github.com/user-attachments/files/17267709/MichaelStapleton.Smith-2024-RTT-29-CSE-certificate.pdf)
+
+[MichaelStapleton Smith-2024-RTT-29-LE-certificate.pdf](https://github.com/user-attachments/files/17267710/MichaelStapleton.Smith-2024-RTT-29-LE-certificate.pdf)
 
 ## Projects / YouTube Channel
 
-I have created a series of videos to showcase my cybersecurity projects. Dive into each video to explore the details and highlights of my projects.
-In each video, I delve into various cybersecurity projects, extracting valuable lessons and insights from each endeavor.
+I have created a series of videos to showcase my cybersecurity projects. Dive into each video to explore the details and highlights of my projects. In each video, I delve into various cybersecurity projects, extracting valuable lessons and insights from each endeavor.
 
-### [Setting up a SIEM and Virtual Machine in Azure1](https://youtu.be/8UFqGEcv6mE)
-[![Setting up a SIEM and Virtual Machine in Azure1](https://img.youtube.com/vi/8UFqGEcv6mE/0.jpg)](https://youtu.be/8UFqGEcv6mE)
-- **Description**: Learned how to initiate the process of setting up a Security Information and Event Management (SIEM) system and virtual machine in Microsoft Azure, covering initial configurations and resource allocation.
+####Coming Soon
 
-### [Setting up a SIEM and Virtual Machine in Azure2](https://youtu.be/ypdhIfWaYqU)
-[![Setting up a SIEM and Virtual Machine in Azure2](https://img.youtube.com/vi/ypdhIfWaYqU/0.jpg)](https://youtu.be/ypdhIfWaYqU)
-- **Description**: Continued the setup of the SIEM and virtual machine in Azure, focusing on integrating essential security components and fine-tuning system settings for optimal performance.
-
-### [Setting up a SIEM and Virtual Machine in Azure3](https://youtu.be/kG_jSjolubQ)
-[![Setting up a SIEM and Virtual Machine in Azure3](https://img.youtube.com/vi/kG_jSjolubQ/0.jpg)](https://youtu.be/kG_jSjolubQ)
-- **Description**: Advanced the configuration of the SIEM system, including connecting data sources and configuring initial event logs for real-time security monitoring.
-
-### [Setting up a SIEM and Virtual Machine in Azure4](https://youtu.be/sCC09OG7OIw)
-[![Setting up a SIEM and Virtual Machine in Azure4](https://img.youtube.com/vi/sCC09OG7OIw/0.jpg)](https://youtu.be/sCC09OG7OIw)
-- **Description**: Enhanced the SIEM setup by configuring dashboards and reports, enabling better visualization and analysis of security events and system activities.
-
-### [Setting up a SIEM and Virtual Machine in Azure5](https://youtu.be/0JC1fqYEdPU)
-[![Setting up a SIEM and Virtual Machine in Azure5](https://img.youtube.com/vi/0JC1fqYEdPU/0.jpg)](https://youtu.be/0JC1fqYEdPU)
-- **Description**: Completed the integration of additional security tools and refined alerting mechanisms, ensuring comprehensive monitoring and proactive threat detection within the SIEM system.
-
-### [Setting up a SIEM and Virtual Machine in Azure6](https://youtu.be/o7-C8wi35IU)
-[![Setting up a SIEM and Virtual Machine in Azure6](https://img.youtube.com/vi/o7-C8wi35IU/0.jpg)](https://youtu.be/o7-C8wi35IU)
-- **Description**: Finalized the SIEM setup by testing the system, verifying configurations, and ensuring all components are functioning correctly, ready for deployment and ongoing security operations.
-
-### [Using Aircrack and Dictionary File to Crack a Wi Fi WPA2 Preshared Key Practice](https://youtu.be/T_6ymcUfi14)
-[![Using Aircrack and Dictionary File to Crack a Wi Fi WPA2 Preshared Key Practice](https://img.youtube.com/vi/T_6ymcUfi14/0.jpg)](https://youtu.be/T_6ymcUfi14)
-- **Description**: Learned how to use Aircrack-ng and a dictionary file to perform a brute-force attack on a WPA2 pre-shared key, demonstrating practical skills in wireless network security testing.
-
-### [Linux Shell Script Set as Executable](https://youtu.be/bniQ3pglKig)
-[![Linux Shell Script Set as Executable](https://img.youtube.com/vi/bniQ3pglKig/0.jpg)](https://youtu.be/bniQ3pglKig)
-- **Description**: Gained knowledge on setting Linux shell scripts as executable files, covering file permissions and execution processes essential for automating tasks in a Linux environment.
-
-### [Using Hping3 to forge network packets](https://youtu.be/1MXyPG-KtDE)
-[![Using Hping3 to forge network packets](https://img.youtube.com/vi/1MXyPG-KtDE/0.jpg)](https://youtu.be/1MXyPG-KtDE)
-- **Description**: Explored the use of Hping3 to forge and manipulate network packets, enhancing understanding of network protocols and penetration testing techniques.
-
-### [Using Virtual Box to download & configure Kali Linux](https://youtu.be/yHdqOpTBfI4)
-[![Using Virtual Box to download & configure Kali Linux](https://img.youtube.com/vi/yHdqOpTBfI4/0.jpg)](https://youtu.be/yHdqOpTBfI4)
-- **Description**: Learned how to download and configure Kali Linux in VirtualBox, setting up a versatile and secure environment for penetration testing and cybersecurity research.
-
-### [Using Kali Linux -- Wiping A Disk Using the DD Command](https://youtu.be/uHwe9_Vpih0)
-[![Using Kali Linux -- Wiping A Disk Using the DD Command](https://img.youtube.com/vi/uHwe9_Vpih0/0.jpg)](https://youtu.be/uHwe9_Vpih0)
-- **Description**: Mastered the use of the `dd` command in Kali Linux for wiping disks, ensuring data is securely erased and understanding the importance of data sanitization in security practices.
-
-### [Using Kali Linux---Enable SSH public key authentication on a Linux host](https://youtu.be/Zkz-FgyqrAQ)
-[![Using Kali Linux---Enable SSH public key authentication on a Linux host](https://img.youtube.com/vi/Zkz-FgyqrAQ/0.jpg)](https://youtu.be/Zkz-FgyqrAQ)
-- **Description**: Learned to enable SSH public key authentication on a Linux host using Kali Linux, improving secure access methods and enhancing authentication mechanisms.
-
-### [Creating a Linux User & Group using Kali Linux](https://youtu.be/4pFip81xIrM)
-[![Creating a Linux User & Group using Kali Linux](https://img.youtube.com/vi/4pFip81xIrM/0.jpg)](https://youtu.be/4pFip81xIrM)
-- **Description**: Acquired skills in user and group management within Kali Linux, covering essential commands and best practices for system administration and user access control.
 
 ## Contact
 Feel free to connect with me on LinkedIn.
