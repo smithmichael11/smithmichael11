@@ -64,21 +64,19 @@ Cybersecurity Analyst Training | Atlanta, GA
 
 ![CompTIA Security+ ce certificate](https://github.com/smithmichael11/smithmichael11/assets/124108029/1d1e1e69-736b-4e0d-a9e3-62a797ff307c)
 
-[CompTIA Security Analytics Professional – CSAP.pdf](https://github.com/user-attachments/files/17267703/CompTIA.Security.Analytics.Professional.CSAP.pdf)
+![CompTIA Security Analytics Professional – CSAP](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_CSAP_IMAGE_ID)
 
-[CompTIA CySA+ ce certificate.pdf](https://github.com/user-attachments/files/17267704/CompTIA.CySA%2B.ce.certificate.pdf)
+![CompTIA CySA+ ce certificate](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_CYSA_IMAGE_ID)
 
-[ISC2-CC-Certified in Cybersecurity-Certification.pdf](https://github.com/user-attachments/files/17267705/ISC2-CC-Certified.in.Cybersecurity-Certification.pdf)
+![ISC2-CC-Certified in Cybersecurity-Certification](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_ISC2_CC_IMAGE_ID)
 
-[CompTIA CySA+ ce certificate.pdf](https://github.com/user-attachments/files/17267706/CompTIA.CySA%2B.ce.certificate.pdf)
+![Splunk Certification](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_SPLUNK_IMAGE_ID)
 
-[Splunk.Certification.pdf](https://github.com/user-attachments/files/17267707/Splunk.Certification.pdf)
+![RTT-29-NE certificate](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_RTT_29_NE_IMAGE_ID)
 
-[MichaelStapleton Smith-2024-RTT-29-NE-certificate.pdf](https://github.com/user-attachments/files/17267708/MichaelStapleton.Smith-2024-RTT-29-NE-certificate.pdf)
+![RTT-29-CSE certificate](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_RTT_29_CSE_IMAGE_ID)
 
-[MichaelStapleton Smith-2024-RTT-29-CSE-certificate.pdf](https://github.com/user-attachments/files/17267709/MichaelStapleton.Smith-2024-RTT-29-CSE-certificate.pdf)
-
-[MichaelStapleton Smith-2024-RTT-29-LE-certificate.pdf](https://github.com/user-attachments/files/17267710/MichaelStapleton.Smith-2024-RTT-29-LE-certificate.pdf)
+![RTT-29-LE certificate](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_RTT_29_LE_IMAGE_ID)
 
 ## Projects / YouTube Channel
 
