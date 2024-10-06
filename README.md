@@ -122,8 +122,6 @@ For more details on these projects or to discuss potential collaborations, pleas
 
 I have created a series of videos to showcase my cybersecurity projects. Dive into each video to explore the details and highlights of my projects. In each video, I delve into various cybersecurity projects, extracting valuable lessons and insights from each endeavor.
 
-# Video Labs Portfolio
-
 ## Basic Networking Labs
 
 ### Configuring End Devices
@@ -174,7 +172,6 @@ I have created a series of videos to showcase my cybersecurity projects. Dive in
 ### Using John Ripper Password Lab
 [![Watch Video](https://img.youtube.com/vi/ejJclx-qMXI/0.jpg)](https://www.youtube.com/watch?v=ejJclx-qMXI)
 
-
 ## Cybersecurity Cysa+ Labs
 
 ### Threat Hunting Lab
@@ -191,7 +188,6 @@ I have created a series of videos to showcase my cybersecurity projects. Dive in
 
 ### Vulnerability Scanning Lab
 [![Watch Video](https://img.youtube.com/vi/QOqhN9nnaPI/0.jpg)](https://www.youtube.com/watch?v=QOqhN9nnaPI)
-
 
 ## Splunk Certified Core User Labs 1-5
 
