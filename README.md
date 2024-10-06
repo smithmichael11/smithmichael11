@@ -1,18 +1,28 @@
 # Cybersecurity Portfolio
 <!-- Replace with your own banner image -->
 
+# Welcome to My Technology and Security Portfolio
 
-Welcome to my cybersecurity portfolio. Here, you'll uncover the depth of my expertise and passion for cybersecurity through a variety of meticulously managed projects.
+Welcome to my comprehensive portfolio showcasing my expertise in Information Assurance, Technical Support, and Cybersecurity. Here, you'll discover the breadth and depth of my skills and passion for technology and digital security through a variety of meticulously managed projects and experiences.
 
-Explore my diverse collection of videos showcasing various projects, each representing a significant milestone in the ongoing effort to ensure digital security. Delve into my portfolio to see my work and insights, presented with clarity and professionalism.
+Explore my diverse collection of videos and projects, each representing a significant milestone in my journey to master the intricacies of IT support, information protection, and cybersecurity. This portfolio offers a window into my work and insights, presented with clarity and professionalism.
 
-If you're interested in connecting, you'll find all the necessary contact information here.
+Whether you're interested in technical support solutions, information assurance strategies, or cutting-edge cybersecurity practices, you'll find relevant examples of my work here. If you're interested in connecting or learning more about my experiences, you'll find all the necessary contact information on this page.
 
-Embark on this journey through my cybersecurity portfolio and discover the dedication and expertise that drive my commitment to safeguarding digital assets.
+Embark on this journey through my portfolio and discover the dedication and expertise that drive my commitment to supporting, securing, and safeguarding digital assets and infrastructure.
 
 ## About Me
 
-I am a dedicated cybersecurity professional with a healthy interest in network security, ethical hacking, and risk management. My passion lies in safeguarding digital assets by identifying vulnerabilities and implementing robust security measures.
+I am a dedicated IT professional with a strong foundation in technical support and a growing expertise in information assurance and cybersecurity. My interests span a wide range of areas including:
+
+- Technical Support: Providing robust IT solutions and user assistance
+- Information Assurance: Ensuring the integrity, availability, and confidentiality of data
+- Network Security: Designing and implementing secure network architectures
+- Cybersecurity: Protecting digital assets through various security measures
+- Ethical Hacking: Identifying vulnerabilities to strengthen system defenses
+- Risk Management: Assessing and mitigating potential security risks
+
+My passion lies in leveraging my diverse skill set to create secure, efficient, and reliable IT environments. I am committed to continuous learning and staying ahead of the ever-evolving technology landscape to provide the best possible support and security solutions.
 
 ### Education & Certifications
 
