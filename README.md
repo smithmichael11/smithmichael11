@@ -10,17 +10,9 @@ If you're interested in connecting, you'll find all the necessary contact inform
 
 Embark on this journey through my cybersecurity portfolio and discover the dedication and expertise that drive my commitment to safeguarding digital assets.
 
-## Table of Contents
-
-- [About Me](#about-me)
-- [Certifications](#certifications)
-- [Projects & YouTube Channel](#projects--youtube-channel)
-- [Contact](#contact)
-
-
 ## About Me
 
-I am a dedicated cybersecurity professional with a healthy interest in network security, ethical hacking, and risk management. As a graduate student at Western Governors University, I am pursuing a Master of Science in Cybersecurity and Information Assurance. Additionally, I am participating in the Per Scholas Cybersecurity Cohort for the Summer 2024 session, further enhancing my skills and knowledge in this dynamic field. My goal is to safeguard digital assets by identifying vulnerabilities and implementing robust security measures.
+I am a dedicated cybersecurity professional with a healthy interest in network security, ethical hacking, and risk management. My passion lies in safeguarding digital assets by identifying vulnerabilities and implementing robust security measures.
 
 ### Education & Certifications
 
@@ -45,9 +37,10 @@ Bachelor of Arts in Political Science
 
 ### Professional Cybersecurity Training
 
-**Per Scholas**  
-*Present*  
-Cybersecurity Analyst Training | Atlanta, GA
+**Per Scholas** 
+
+*June 16, 2024 - October 04, 2024*  
+Cybersecurity Analyst Training Program | Atlanta, GA
 
 - Enrolled in an intensive 15-week cybersecurity training program at Per Scholas, a highly respected nonprofit organization providing affordable, high-quality technology education and career opportunities.
   
@@ -62,21 +55,65 @@ Cybersecurity Analyst Training | Atlanta, GA
 
 ## Certifications
 
-![CompTIA Security+ ce certificate](https://github.com/smithmichael11/smithmichael11/assets/124108029/1d1e1e69-736b-4e0d-a9e3-62a797ff307c)
+In 2024, I've significantly expanded my expertise in cybersecurity and network technologies, earning several industry-recognized certifications. My current certifications include CompTIA Security+, CompTIA Security Analytics Professional (CSAP), CompTIA CySA+, ISC2 CC (Certified in Cybersecurity), Splunk Core Certified User, Cisco Network Essentials, Cisco Cyber Security Essentials, and Cisco/NDG Linux Essentials. Additionally, I'm currently preparing for the CompTIA PenTest+ examination to further enhance my skill set. These certifications demonstrate my commitment to staying current with the latest technologies and best practices in the rapidly evolving field of cybersecurity. For verification or to view the digital badges for each certification, please visit my LinkedIn profile. I'm also happy to provide copies of these certifications upon request.
 
-![CompTIA Security Analytics Professional – CSAP](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_CSAP_IMAGE_ID)
+-CompTIA Security+ 
 
-![CompTIA CySA+ ce certificate](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_CYSA_IMAGE_ID)
+-CompTIA Security Analytics Professional (CSAP)
 
-![ISC2-CC-Certified in Cybersecurity-Certification](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_ISC2_CC_IMAGE_ID)
+-CompTIA CySA+ 
 
-![Splunk Certification](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_SPLUNK_IMAGE_ID)
+-ISC2 CC (Certified in Cybersecurity)
 
-![RTT-29-NE certificate](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_RTT_29_NE_IMAGE_ID)
+-Splunk Certification Core Certified User
 
-![RTT-29-CSE certificate](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_RTT_29_CSE_IMAGE_ID)
+-Cisco Network Essentials
 
-![RTT-29-LE certificate](https://github.com/smithmichael11/smithmichael11/assets/124108029/YOUR_RTT_29_LE_IMAGE_ID)
+-Cisco Cyber Security Essentials
+
+-Cisco/NDG Linux Essentials
+
+-CompTIA Pen Test + - Exam Preparation in Progress*
+
+## Academic Works
+
+### Network Security and Cybersecurity Projects
+
+#### 1. Network Merger and Implementation Plan
+*Course: D482 Secure Network Design*
+
+This comprehensive plan addresses the complex challenges of merging two companies' networks while ensuring robust security and regulatory compliance. Key features include:
+
+- Detailed analysis of current network security and infrastructure problems
+- Proposed network topology adhering to OSI Model and TCP/IP Protocol Stack
+- Strategies for PCI DSS and HIPAA compliance
+- Addressing emerging threats like ransomware and supply chain attacks
+- Implementation plan with timeline and budget allocation
+
+[View Full Document](link-to-your-document-1)
+
+
+#### 2. Incident Response Report: Design by Paradigm
+*Course: D483 Security Operations*
+
+A detailed incident response report for a simulated cybersecurity incident. Highlights include:
+
+- Comprehensive incident details and timeline
+- Analysis of the compromised system (Windows Server 2019)
+- Investigation of malicious traffic and cryptocurrency mining activity
+- Remediation steps taken to restore system functionality and network security
+- Lessons learned and recommendations for preventative actions
+
+[View Full Document](link-to-your-document-2)
+
+These academic works demonstrate my proficiency in:
+- Network security design and implementation
+- Regulatory compliance (PCI DSS, HIPAA)
+- Incident response and threat mitigation
+- Risk assessment and management
+- Technical writing and documentation
+
+For more details on these projects or to discuss potential collaborations, please feel free to reach out!
 
 ## Projects / YouTube Channel
 
