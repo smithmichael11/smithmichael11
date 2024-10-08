@@ -117,13 +117,46 @@ A detailed incident response report for a simulated cybersecurity incident. High
 
 [View Full Document](https://github.com/user-attachments/files/17267754/D483.Incident.Reporting-.Design.by.Paradigm.pdf)
 
+#### 3. Cloud Security Implementation Plan: SWBTL LLC
+Course: D485 Cloud Security
+A comprehensive cloud security implementation plan for SWBTL LLC's Microsoft Azure environment. Key aspects include:
+
+
+Evaluation and enhancement of cloud security following a consultant's departure
+Implementation of role-based access control (RBAC) based on least privilege principle
+Configuration of Azure Key Vault for secure key management
+Encryption strategies for data at rest and in transit
+Backup configuration meeting specific business requirements (RPO and RTO)
+Compliance with FISMA, PCI DSS, and NIST SP 800-53 standards
+
+
+([D485. Final Report Outline for Cloud Security Implementation.pdf](https://github.com/user-attachments/files/17299419/D485.Final.Report.Outline.for.Cloud.Security.Implementation.pdf))
+
+
+#### 4. Penetration Testing Report: Western View Hospital
+Course: D484 Penetration Testing
+A detailed penetration testing report for Western View Hospital, focusing on securing their new patient records system. Highlights include:
+
+
+Internal and external network-level penetration testing
+Social engineering testing through simulated phone-based phishing (vishing) attacks
+Analysis of potential misalignments with client goals and HIPAA compliance
+Recommendations for improvement based on industry best practices and frameworks
+Solutions to mitigate risks associated with critical vulnerabilities like EternalBlue
+
+([D484.Penetration Test Report-Western View Hospital.pdf](https://github.com/user-attachments/files/17299425/D484.Penetration.Test.Report-Western.View.Hospital.pdf))
+
+
 These academic works demonstrate my proficiency in:
 
-- Network security design and implementation
-- Regulatory compliance (PCI DSS, HIPAA)
-- Incident response and threat mitigation
-- Risk assessment and management
-- Technical writing and documentation
+-Network security design and implementation
+-Cloud security and Azure environment configuration
+-Regulatory compliance (PCI DSS, HIPAA, FISMA, NIST)
+-Incident response and threat mitigation
+-Penetration testing and vulnerability assessment
+-Risk assessment and management
+-Technical writing and documentation
+
 
 For more details on these projects or to discuss potential collaborations, please feel free to reach out!
 
