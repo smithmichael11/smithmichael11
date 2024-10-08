@@ -118,44 +118,46 @@ A detailed incident response report for a simulated cybersecurity incident. High
 [View Full Document](https://github.com/user-attachments/files/17267754/D483.Incident.Reporting-.Design.by.Paradigm.pdf)
 
 #### 3. Cloud Security Implementation Plan: SWBTL LLC
-Course: D485 Cloud Security
+*Course: D485 Cloud Security
+
 A comprehensive cloud security implementation plan for SWBTL LLC's Microsoft Azure environment. Key aspects include:
 
 
-Evaluation and enhancement of cloud security following a consultant's departure
-Implementation of role-based access control (RBAC) based on least privilege principle
-Configuration of Azure Key Vault for secure key management
-Encryption strategies for data at rest and in transit
-Backup configuration meeting specific business requirements (RPO and RTO)
-Compliance with FISMA, PCI DSS, and NIST SP 800-53 standards
+- Evaluation and enhancement of cloud security following a consultant's departure
+- Implementation of role-based access control (RBAC) based on least privilege principle
+- Configuration of Azure Key Vault for secure key management
+- Encryption strategies for data at rest and in transit
+- Backup configuration meeting specific business requirements (RPO and RTO)
+- Compliance with FISMA, PCI DSS, and NIST SP 800-53 standards
 
 
 ([D485. Final Report Outline for Cloud Security Implementation.pdf](https://github.com/user-attachments/files/17299419/D485.Final.Report.Outline.for.Cloud.Security.Implementation.pdf))
 
 
 #### 4. Penetration Testing Report: Western View Hospital
-Course: D484 Penetration Testing
+*Course: D484 Penetration Testing
+
 A detailed penetration testing report for Western View Hospital, focusing on securing their new patient records system. Highlights include:
 
 
-Internal and external network-level penetration testing
-Social engineering testing through simulated phone-based phishing (vishing) attacks
-Analysis of potential misalignments with client goals and HIPAA compliance
-Recommendations for improvement based on industry best practices and frameworks
-Solutions to mitigate risks associated with critical vulnerabilities like EternalBlue
+- Internal and external network-level penetration testing
+- Social engineering testing through simulated phone-based phishing (vishing) attacks
+- Analysis of potential misalignments with client goals and HIPAA compliance
+- Recommendations for improvement based on industry best practices and frameworks
+- Solutions to mitigate risks associated with critical vulnerabilities like EternalBlue
 
 ([D484.Penetration Test Report-Western View Hospital.pdf](https://github.com/user-attachments/files/17299425/D484.Penetration.Test.Report-Western.View.Hospital.pdf))
 
 
 These academic works demonstrate my proficiency in:
 
--Network security design and implementation
--Cloud security and Azure environment configuration
--Regulatory compliance (PCI DSS, HIPAA, FISMA, NIST)
--Incident response and threat mitigation
--Penetration testing and vulnerability assessment
--Risk assessment and management
--Technical writing and documentation
+- Network security design and implementation
+- Cloud security and Azure environment configuration
+- Regulatory compliance (PCI DSS, HIPAA, FISMA, NIST)
+- Incident response and threat mitigation
+- Penetration testing and vulnerability assessment
+- Risk assessment and management
+- Technical writing and documentation
 
 
 For more details on these projects or to discuss potential collaborations, please feel free to reach out!
@@ -165,7 +167,15 @@ For more details on these projects or to discuss potential collaborations, pleas
 
 I have created a series of videos to showcase my cybersecurity projects. Dive into each video to explore the details and highlights of my projects. In each video, I delve into various cybersecurity projects, extracting valuable lessons and insights from each endeavor.
 
+## Cloud Security Azure Lab
+
+Check out my Cloud Security Lab project where I demonstrate key concepts in cloud security, configuration, and implementation.
+
+[![Watch Video](https://img.youtube.com/vi/4vj_CPOLSA4/0.jpg)](https://youtu.be/4vj_CPOLSA4)
+
 ## Basic Networking Labs
+
+These labs showcase fundamental networking skills, providing hands-on experience in configuring devices, establishing secure network connections, and exploring key management techniques. Each video offers insights into essential networking concepts and practical applications, laying the groundwork for more advanced network design and security practices.
 
 ### Configuring End Devices
 [![Watch Video](https://img.youtube.com/vi/7DktR__QbMs/0.jpg)](https://www.youtube.com/watch?v=7DktR__QbMs)
@@ -217,6 +227,8 @@ I have created a series of videos to showcase my cybersecurity projects. Dive in
 
 ## Cybersecurity Cysa+ Labs
 
+These labs demonstrate practical skills in cybersecurity, focusing on threat detection, system hardening, and vulnerability management. Each project emphasizes real-world applications of cybersecurity principles, from threat hunting to asset discovery, providing hands-on experience in securing and monitoring systems against evolving threats.
+
 ### Threat Hunting Lab
 [![Watch Video](https://img.youtube.com/vi/ZQyzyI9br7Y/0.jpg)](https://www.youtube.com/watch?v=ZQyzyI9br7Y)
 
@@ -233,6 +245,8 @@ I have created a series of videos to showcase my cybersecurity projects. Dive in
 [![Watch Video](https://img.youtube.com/vi/QOqhN9nnaPI/0.jpg)](https://www.youtube.com/watch?v=QOqhN9nnaPI)
 
 ## Splunk Certified Core User Labs 1-5
+
+These labs focus on mastering Splunk's core features, including data ingestion, searching, reporting, and visualizations. Through these exercises, I gained hands-on experience in efficiently utilizing Splunk to monitor, analyze, and respond to system events—critical skills for any cybersecurity professional working with SIEM solutions.
 
 ### Lab 1
 [![Watch Video](https://img.youtube.com/vi/VdoEWeNhZe4/0.jpg)](https://www.youtube.com/watch?v=VdoEWeNhZe4)
