@@ -45,6 +45,23 @@ Bachelor of Arts in Political Science
 *Georgia Legislative Internship Program:*  
 - Georgia House of Representatives (2021) - Media Service Aide
 
+### Current Professional Experience:
+
+**SymplyFi**
+October 2024- Present
+Jr Technical Support Analyst
+
+-Troubleshoot and resolve network, WiFi, VoIP, POS, and PC desktop issues for critical client infrastructure.
+
+-Adhere to documented procedures for addressing and escalating technical support requests, ensuring timely resolution and effective communication.
+
+-Oversee hardware inventory, including unboxing, asset tagging, and storage management, to maintain accurate records and availability.
+
+-Create, update, and manage support tickets to ensure thorough documentation and follow-through on client issues.
+
+-Proactively monitor client site statuses and respond to outages to maintain service continuity and system uptime.
+
+
 ### Professional Cybersecurity Training
 
 **Per Scholas** 
@@ -62,12 +79,11 @@ Cybersecurity Analyst Training Program | Atlanta, GA
   
 - Participated in simulated cyber incident response scenarios and security exercises to enhance problem-solving skills, critical thinking abilities, and the capacity to work effectively under pressure.
 
-
 ## Certifications
 
 In 2024, I've significantly expanded my expertise in cybersecurity and network technologies, earning several industry-recognized certifications. My current certifications include CompTIA Security+, CompTIA Security Analytics Professional (CSAP), CompTIA CySA+, ISC2 CC (Certified in Cybersecurity), Splunk Core Certified User, Cisco Network Essentials, Cisco Cyber Security Essentials, and Cisco/NDG Linux Essentials. 
 
-Additionally, I'm currently preparing for the CompTIA PenTest+ examination to further enhance my skill set. These certifications demonstrate my commitment to staying current with the latest technologies and best practices in the rapidly evolving field of cybersecurity. For verification or to view the digital badges for each certification, please visit my LinkedIn profile. I'm also happy to provide copies of these certifications upon request.
+Additionally, I just successfully completed the CompTIA PenTest+ examination to further enhance my skill set. These certifications demonstrate my commitment to staying current with the latest technologies and best practices in the rapidly evolving field of cybersecurity. For verification or to view the digital badges for each certification, please visit my LinkedIn profile. I'm also happy to provide copies of these certifications upon request.
 
 -CompTIA Security+ 
 
@@ -85,7 +101,7 @@ Additionally, I'm currently preparing for the CompTIA PenTest+ examination to fu
 
 -Cisco/NDG Linux Essentials
 
--CompTIA Pen Test + - Exam Preparation in Progress*
+-CompTIA Pen Test + 
 
 ## Academic Works
 
