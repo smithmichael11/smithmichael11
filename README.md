@@ -175,8 +175,6 @@ These academic works demonstrate my proficiency in:
 - Risk assessment and management
 - Technical writing and documentation
 
-  #### Certainly! Below is a more holistic write-up that covers the entire setup of Wazuh, including the agent installation, vulnerability analysis, and mitigation, along with your steps for securing your environment. You can also incorporate screenshots from your project for a clearer presentation.
-
 ---
 
 ### **Project Overview: Wazuh SIEM Setup, Vulnerability Detection, and Mitigation**
@@ -186,6 +184,7 @@ These academic works demonstrate my proficiency in:
 In this project, I set up and configured **Wazuh**, an open-source Security Information and Event Management (SIEM) system, to enhance network security and monitor for vulnerabilities in an organization's environment. I focused on configuring the Wazuh agent to collect security data from systems and analyzing the logs to detect vulnerabilities, with a specific emphasis on **CVE-2017-11882**, a critical Microsoft Office vulnerability.
 
 The project involved the following phases:
+
 1. **Setting up the Wazuh Manager and Agent**.
 2. **Configuring the Wazuh Agent for Vulnerability Detection**.
 3. **Analyzing and Mitigating Vulnerabilities**.
@@ -202,16 +201,17 @@ The first step was to install and configure the **Wazuh Manager**, which acts as
    - I configured the manager to communicate with the Wazuh agents and established a secure connection using SSL/TLS.
    - Screenshots from the Wazuh Manager UI, showing the agent connections and the manager dashboard, can be seen below.
 
-   *(Insert Screenshot 1: Wazuh Manager dashboard showing agent connectivity status)*
+![IMG_2223](https://github.com/user-attachments/assets/07d68812-939d-4dd2-8db2-11b3bbae68c2)
+
+   
 
 2. **Wazuh Agent Installation**:
    - The **Wazuh Agent** was installed on macOS and Windows machines to collect logs, including system logs, application logs, and security logs. The agents were configured to send logs to the Wazuh Manager for analysis.
    - I ensured the agents were set up to collect logs that would help identify potential vulnerabilities and security events, such as file integrity monitoring, firewall logs, and software vulnerabilities.
 
-   *(Insert Screenshot 2: Wazuh agent installation and configuration on macOS)*
+![IMG_2226](https://github.com/user-attachments/assets/e5877b4c-b6e3-4fdc-9ed3-5e4fe7df2e28)
 
----
-
+ 
 #### **Phase 2: Configuring Wazuh for Vulnerability Detection**
 
 Once the manager and agents were set up, I configured Wazuh to perform regular vulnerability scans and monitor for specific CVEs. Wazuh uses various rule sets to detect security events, including vulnerability-related detections. The vulnerability detection feature integrates with databases like **OpenSCAP** and **CVE** feeds to identify known vulnerabilities.
@@ -221,11 +221,15 @@ Once the manager and agents were set up, I configured Wazuh to perform regular v
    - Wazuh started to scan systems for known vulnerabilities like **CVE-2017-11882**, which is a Microsoft Office vulnerability allowing remote information disclosure.
    - Screenshots from the Wazuh vulnerability detection report highlighting CVE-2017-11882 can be seen below.
 
-   *(Insert Screenshot 3: Wazuh vulnerability detection report showing CVE-2017-11882)*
+![IMG_2225](https://github.com/user-attachments/assets/da095e6d-9bea-4095-a041-e43adf96dce8)
+ 
 
 2. **Customizing Rules**:
    - I customized existing rules in the Wazuh configuration to better suit the environment, ensuring that Wazuh would alert on high-severity vulnerabilities like **CVE-2017-11882** and log these events for further analysis.
    - I reviewed the specific rule set for CVE detection, ensuring that Wazuh was set to automatically generate alerts for vulnerabilities found in systems, particularly within Microsoft Office.
+  
+![IMG_2227](https://github.com/user-attachments/assets/fd2c42db-bcfc-4c3f-92c4-90bc0117a5df)
+
 
 ---
 
@@ -237,14 +241,11 @@ After Wazuh began monitoring the environment, I used its capabilities to analyze
    - Using Wazuh's centralized logging and alerting system, I identified that **CVE-2017-11882** was present in the network.
    - The vulnerability could be exploited through malicious documents that use `INCLUDETEXT` and `INCLUDEPICTURE` field codes, allowing attackers to remotely exfiltrate sensitive data.
 
-   *(Insert Screenshot 4: Wazuh alert showing CVE-2017-11882 detection on affected systems)*
 
 2. **Mitigation Plan**:
    - I applied the latest Microsoft Office security patches on all affected machines to ensure that the vulnerability was addressed at the software level.
    - To further reduce the risk, I disabled **external content updates** in Word and Excel. This step prevented the automatic pulling of data from external sources when opening potentially malicious documents.
    - I also implemented **endpoint protection** software like **Malwarebytes** to detect and block malicious documents, and I ensured that built-in macOS security features like **Gatekeeper** were configured to block untrusted files from running.
-
-   *(Insert Screenshot 5: Configuring Microsoft Office to disable external content updates)*
 
 ---
 
