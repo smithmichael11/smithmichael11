@@ -13,11 +13,11 @@ Embark on this journey through my portfolio and discover the dedication and expe
 
 ## About Me
 
-I am a dedicated IT professional with a strong foundation in technical support and a growing expertise in information assurance and cybersecurity. My interests span a wide range of areas including:
+I am a dedicated IT and Cybersecurity professional with a strong foundation in technical support and a growing expertise in information assurance. My interests span a wide range of areas including:
 
 - Technical Support: Providing robust IT solutions and user assistance
 - Information Assurance: Ensuring the integrity, availability, and confidentiality of data
-- Network Security: Designing and implementing secure network architectures
+- Network Security: Monitoring and implementing secure network architectures
 - Cybersecurity: Protecting digital assets through various security measures
 - Ethical Hacking: Identifying vulnerabilities to strengthen system defenses
 - Risk Management: Assessing and mitigating potential security risks
@@ -27,7 +27,7 @@ My passion lies in leveraging my diverse skill set to create secure, efficient, 
 ### Education & Certifications
 
 **Western Governors University**  
-*Present*  
+*Expected Graduation Aug. 2025*  
 Master of Science in Cybersecurity and Information Assurance  
 *Relevant Coursework:*  
 - Security Operations
@@ -48,18 +48,17 @@ Bachelor of Arts in Political Science
 ### Current Professional Experience:
 
 **SymplyFi**
-October 2024- Present
-Jr Technical Support Analyst
+October 2022- Present
+Technical Support Analyst
 
--Troubleshoot and resolve network, WiFi, VoIP, POS, and PC desktop issues for critical client infrastructure.
+Deliver network and technical support to quick-service restaurant clients: Moe’s, Gusto, Checkers, and Johnny Rockets, resolving ISP
+outages, VOIP issues, and IVR system challenges with precision and efficiency. Manage Zoho ticket queues, ensuring timely incident
+resolution while maintaining SLA compliance and documentation. Diagnose IT issues using Linux commands, Python scripts, remote
+tools, and Icinga monitoring systems. Deploy OpenWRT devices with 4G failover, maintaining network connectivity for over 600
+clients.
 
--Adhere to documented procedures for addressing and escalating technical support requests, ensuring timely resolution and effective communication.
-
--Oversee hardware inventory, including unboxing, asset tagging, and storage management, to maintain accurate records and availability.
-
--Create, update, and manage support tickets to ensure thorough documentation and follow-through on client issues.
-
--Proactively monitor client site statuses and respond to outages to maintain service continuity and system uptime.
+• Achieved 95% SLA compliance, enhancing client satisfaction and reducing resolution times by 20%.
+• Delivered 99% network uptime for clients via optimized deployment of failover devices and configurations.
 
 
 ### Professional Cybersecurity Training
@@ -67,41 +66,20 @@ Jr Technical Support Analyst
 **Per Scholas** 
 
 *June 16, 2024 - October 04, 2024*  
-Cybersecurity Analyst Training Program | Atlanta, GA
+Cybersecurity Analyst and Ethical Hacking Training Program | Atlanta, GA
 
-- Enrolled in an intensive 15-week cybersecurity training program at Per Scholas, a highly respected nonprofit organization providing affordable, high-quality technology education and career opportunities.
-  
-- Developed a deep understanding of fundamental cybersecurity concepts, including network security, risk assessment, vulnerability management, and incident response.
-  
-- Gained hands-on experience with industry-standard security tools and technologies such as firewalls, IDS/IPS, SIEM platforms, and vulnerability scanning and remediation software.
-  
-- Learned to effectively identify, analyze, and mitigate various cyber threats using a combination of technical skills and analytical thinking.
-  
-- Participated in simulated cyber incident response scenarios and security exercises to enhance problem-solving skills, critical thinking abilities, and the capacity to work effectively under pressure.
+Completed intensive cybersecurity training, specializing in threat detection, vulnerability assessment, and risk mitigation. Practiced
+ethical hacking, identifying vulnerabilities and providing actionable mitigation strategies for protection. Applied NIST CSF frameworks
+during labs. Participated in offensive security simulations, mastering practical techniques for ethical hacking and penetration testing.
+
+• Reduced simulated security risks by 25% through comprehensive vulnerability assessments and mitigation strategies.
+• Identified 20+ critical vulnerabilities in labs, significantly enhancing network security preparedness and protection.
 
 ## Certifications
 
-In 2024, I've significantly expanded my expertise in cybersecurity and network technologies, earning several industry-recognized certifications. My current certifications include CompTIA Security+, CompTIA Security Analytics Professional (CSAP), CompTIA CySA+, ISC2 CC (Certified in Cybersecurity), Splunk Core Certified User, Cisco Network Essentials, Cisco Cyber Security Essentials, and Cisco/NDG Linux Essentials. 
+In 2024, I've significantly expanded my expertise in cybersecurity and network technologies, earning several industry-recognized certifications. My current certifications include CompTIA Security+, CompTIA Pen Test +, CompTIA Security Analytics Professional (CSAP), CompTIA CySA+, ISC2 CC (Certified in Cybersecurity), Splunk Core Certified User, Cisco Network Essentials, Cisco Cyber Security Essentials, and Cisco/NDG Linux Essentials. 
 
-Additionally, I just successfully completed the CompTIA PenTest+ examination to further enhance my skill set. These certifications demonstrate my commitment to staying current with the latest technologies and best practices in the rapidly evolving field of cybersecurity. For verification or to view the digital badges for each certification, please visit my LinkedIn profile. I'm also happy to provide copies of these certifications upon request.
-
--CompTIA Security+ 
-
--CompTIA Security Analytics Professional (CSAP)
-
--CompTIA CySA+ 
-
--ISC2 CC (Certified in Cybersecurity)
-
--Splunk Certification Core Certified User
-
--Cisco Network Essentials
-
--Cisco Cyber Security Essentials
-
--Cisco/NDG Linux Essentials
-
--CompTIA Pen Test + 
+Additionally, I just recently completed the CompTIA PenTest+ examination to further enhance my skill set. These certifications demonstrate my commitment to staying current with the latest technologies and best practices in the rapidly evolving field of cybersecurity. For verification or to view the digital badges for each certification, please visit my LinkedIn profile. I'm also happy to provide copies of these certifications upon request.
 
 ## Academic Works
 
@@ -137,7 +115,6 @@ A detailed incident response report for a simulated cybersecurity incident. High
 *Course: D485 Cloud Security
 
 A comprehensive cloud security implementation plan for SWBTL LLC's Microsoft Azure environment. Key aspects include:
-
 
 - Evaluation and enhancement of cloud security following a consultant's departure
 - Implementation of role-based access control (RBAC) based on least privilege principle
@@ -175,7 +152,6 @@ These academic works demonstrate my proficiency in:
 - Risk assessment and management
 - Technical writing and documentation
 
----
 
 ### **Project Overview: Wazuh SIEM Setup, Vulnerability Detection, and Mitigation**
 
@@ -190,11 +166,9 @@ The project involved the following phases:
 3. **Analyzing and Mitigating Vulnerabilities**.
 4. **Creating a Continuous Monitoring and Reporting System**.
 
----
-
 #### **Phase 1: Wazuh Manager and Agent Setup**
 
-The first step was to install and configure the **Wazuh Manager**, which acts as the central server for collecting and analyzing logs from various sources, including endpoint devices. I set up **Wazuh agents** on multiple test machines (including macOS and Windows devices) to forward logs to the manager. The agents collect system and application logs, which are then analyzed for security events.
+The first step was to install and configure the **Wazuh Manager**, which acts as the central server for collecting and analyzing logs from various sources, including endpoint devices. I set up **Wazuh agents** on my macOS device to forward logs to the manager. The agents collect system and application logs, which are then analyzed for security events.
 
 1. **Wazuh Manager Installation**:
    - The **Wazuh Manager** was installed on a Linux server, which serves as the central point for data aggregation, rule processing, and alert generation. 
@@ -204,9 +178,8 @@ The first step was to install and configure the **Wazuh Manager**, which acts as
 ![IMG_2223](https://github.com/user-attachments/assets/07d68812-939d-4dd2-8db2-11b3bbae68c2)
 
    
-
 2. **Wazuh Agent Installation**:
-   - The **Wazuh Agent** was installed on macOS and Windows machines to collect logs, including system logs, application logs, and security logs. The agents were configured to send logs to the Wazuh Manager for analysis.
+   - The **Wazuh Agent** was installed on my macOS machine to collect logs, including system logs, application logs, and security logs. The agents were configured to send logs to the Wazuh Manager for analysis.
    - I ensured the agents were set up to collect logs that would help identify potential vulnerabilities and security events, such as file integrity monitoring, firewall logs, and software vulnerabilities.
 
 ![IMG_2226](https://github.com/user-attachments/assets/e5877b4c-b6e3-4fdc-9ed3-5e4fe7df2e28)
@@ -231,8 +204,6 @@ Once the manager and agents were set up, I configured Wazuh to perform regular v
 ![IMG_2227](https://github.com/user-attachments/assets/fd2c42db-bcfc-4c3f-92c4-90bc0117a5df)
 
 
----
-
 #### **Phase 3: Analysis and Mitigation of Vulnerabilities**
 
 After Wazuh began monitoring the environment, I used its capabilities to analyze detected vulnerabilities and plan mitigation strategies. I specifically focused on **CVE-2017-11882**, a vulnerability in Microsoft Word and Excel that allows attackers to exploit embedded field codes to extract sensitive information from the system.
@@ -247,8 +218,6 @@ After Wazuh began monitoring the environment, I used its capabilities to analyze
    - To further reduce the risk, I disabled **external content updates** in Word and Excel. This step prevented the automatic pulling of data from external sources when opening potentially malicious documents.
    - I also implemented **endpoint protection** software like **Malwarebytes** to detect and block malicious documents, and I ensured that built-in macOS security features like **Gatekeeper** were configured to block untrusted files from running.
 
----
-
 #### **Phase 4: Continuous Monitoring and Reporting**
 
 With the vulnerability mitigated, I set up **continuous monitoring** in Wazuh to track any attempts to exploit the vulnerability in the future. This phase involved creating custom reports and alerts to ensure ongoing security vigilance.
@@ -262,8 +231,6 @@ With the vulnerability mitigated, I set up **continuous monitoring** in Wazuh to
 2. **Setting Up Real-Time Alerts**:
    - I set up **real-time alerts** to notify the security team if any future exploit attempts were detected or if any systems became vulnerable again due to missed patches or configuration issues.
 
----
-
 #### **Project Outcome:**
 
 The project was successful in setting up a robust **Wazuh SIEM system** that provided real-time monitoring and vulnerability detection across the network. Specifically for **CVE-2017-11882**, I was able to:
@@ -272,8 +239,6 @@ The project was successful in setting up a robust **Wazuh SIEM system** that pro
 - Establish continuous monitoring and reporting mechanisms to ensure that the system remains secure against future threats.
 
 By integrating **Wazuh** for vulnerability detection and leveraging its comprehensive monitoring and alerting capabilities, I was able to enhance the overall security posture of the organization.
-
----
 
 #### **Conclusion:**
 
