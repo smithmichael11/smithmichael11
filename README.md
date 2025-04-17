@@ -1,7 +1,7 @@
-# Michael's Tech Portfolio
-<!-- Replace with your own banner image -->
 
-# Welcome to My Technology and Security Portfolio
+![ChatGPT Image Apr 17, 2025, 07_37_32 PM](https://github.com/user-attachments/assets/c9df9145-8d52-4002-aa7f-eb859b99f642)
+
+# Welcome to My Portfolio
 
 Thanks for stopping by! This is where I showcase my journey and hands-on experience in Information Assurance, Technical Support, and Cybersecurity.
 
@@ -11,7 +11,7 @@ Whether you're exploring solutions in IT support, digging into cybersecurity pra
 
 Feel free to connect — I’m always open to sharing insights, collaborating, or diving deeper into the tech that keeps our systems safe.
 
-## About Me
+## About Me:
 
 Dynamic and detail-oriented IT and cybersecurity professional with over 8 years of experience in technical support, networking, and cybersecurity analysis. Proven expertise in diagnosing and resolving hardware, software, and network issues while maintaining exceptional customer satisfaction. Skilled in leveraging Linux commands, Python scripting, and cybersecurity frameworks like NIST CSF to address vulnerabilities and enhance organizational security. Passionate about leveraging analytical skills and technical knowledge to contribute to innovative IT and cybersecurity solutions.
 
@@ -26,7 +26,7 @@ My interests span a wide range of areas including:
 
 My passion lies in leveraging my diverse skill set to create secure, efficient, and reliable IT environments. I am committed to continuous learning and staying ahead of the ever-evolving technology landscape to provide the best possible support and security solutions.
 
-### Education & Certifications
+### Education & Certifications:
 
 **Western Governors University**  
 *Graduated March 2025*  
@@ -49,14 +49,21 @@ Bachelor of Arts in Political Science
 
 ### Key Projects: 
 
-Wazuh Deployment and Security Monitoring Project:
+**Wazuh Deployment and Security Monitoring Project (See Details Below):**
+
 •	Deployed Wazuh on my MacOS for endpoint protection, log analysis, and incident detection.
+
 •	Configured and deployed Wazuh SIEM to enhance my personal network security and detect vulnerabilities. Set up Wazuh agents for log collection and analysis, focusing on CVE-2017-11882.
+
 •	Implemented continuous monitoring and reporting for proactive threat detection and mitigation.
 
-Graduate Capstone Cybersecurity Project:
+
+**Graduate Capstone Cybersecurity Project:**
+
 •	Tile: Preventing SQL Injection Attacks in Web Applications
+
 •	This project focused on identifying and implementing robust security controls to prevent SQL injection attacks.
+
 •	Designed and implemented security controls to mitigate SQL injection vulnerabilities in web applications. Conducted threat analysis, tested injection attack scenarios, and deployed parameterized queries and input validation techniques to enhance database security.
 
 ### Current Professional Experience:
@@ -67,7 +74,9 @@ Technical Support Analyst
 
 Provide network and IT support to quick-service restaurant clients, including Moe’s, Gusto, Checkers, and Johnny Rockets, troubleshooting ISP outages, VoIP disruptions, and IVR system challenges. Utilize Linux-based systems, TCPdump, and other network diagnostic tools to analyze traffic, identify issues, and ensure optimal performance. Manage Zoho ticket queues, maintaining SLA compliance and detailed documentation. Leverage remote access tools and Icinga monitoring systems to proactively detect and resolve network incidents. Deploy and configure site gateways with 4G Internet failover capabilities, maintaining seamless connectivity for over 600 clients. 
 
+
 •	Improved network troubleshooting efficiency by implementing Linux commands and packet analysis tools, reducing resolution times by 20%. 
+
 •	Delivered 99% network uptime for clients via optimized deployment of failover devices and configurations.
 
 **Log(N) Pacific**
@@ -76,7 +85,9 @@ Cybersecurity Support Analyst--- Remote
 
 Provided cybersecurity support by monitoring, analyzing, and responding to security incidents, ensuring the protection of organizational data and systems. Developed security playbooks, streamlined incident response procedures, and conducted vulnerability assessments to enhance security posture.
 
+
 •	Reduced average incident resolution time by 35% by developing and maintaining detailed playbooks for common threats, improving team coordination during critical security events.
+
 •	Conducted vulnerability assessments across 200+ endpoints, identifying and remediating critical security gaps while coordinating with IT teams for patch management.
 
 
@@ -89,16 +100,18 @@ Cybersecurity Analyst and Ethical Hacking Training Program | Atlanta, GA
 
 Completed intensive cybersecurity training, specializing in threat detection, vulnerability assessment, and risk mitigation. Practiced ethical hacking, identifying vulnerabilities and providing actionable mitigation strategies for protection. Applied NIST CSF frameworks during labs. Participated in offensive security simulations, mastering practical techniques for ethical hacking and penetration testing. 
 
+
 •	Reduced simulated security risks by 25% through comprehensive vulnerability assessments and mitigation strategies.
+
 •	Identified 20+ critical vulnerabilities in labs, significantly enhancing network security preparedness and protection.
 
-## Certifications
+## Certifications:
 
 In 2024, I've significantly expanded my expertise in cybersecurity and network technologies, earning several industry-recognized certifications. My current certifications include CompTIA Security+, CompTIA Pen Test +, CompTIA Security Analytics Professional (CSAP-Stackable), CompTIA CySA+, ISC2 CC (Certified in Cybersecurity), Splunk Core Certified User, Cisco Network Essentials, Cisco Cyber Security Essentials, and Cisco/NDG Linux Essentials. 
 
 Additionally, I just recently completed the CompTIA PenTest+ examination to further enhance my skill set. These certifications demonstrate my commitment to staying current with the latest technologies and best practices in the rapidly evolving field of cybersecurity. For verification or to view the digital badges for each certification, please visit my LinkedIn profile. I'm also happy to provide copies of these certifications upon request.
 
-## Academic Works
+## Academic Works:
 
 ### Network Security and Cybersecurity Projects
 
@@ -170,7 +183,7 @@ These academic works demonstrate my proficiency in:
 - Technical writing and documentation
 
 
-### **Project Overview: Wazuh SIEM Setup, Vulnerability Detection, and Mitigation**
+### **Project Overview: Wazuh SIEM Setup, Vulnerability Detection, and Mitigation:**
 
 #### **Project Description:**
 
