@@ -3,17 +3,19 @@
 
 # Welcome to My Technology and Security Portfolio
 
-Welcome to my comprehensive portfolio showcasing my expertise in Information Assurance, Technical Support, and Cybersecurity. Here, you'll discover the breadth and depth of my skills and passion for technology and digital security through a variety of meticulously managed projects and experiences.
+Thanks for stopping by! This is where I showcase my journey and hands-on experience in Information Assurance, Technical Support, and Cybersecurity.
 
-Explore my diverse collection of videos and projects, each representing a significant milestone in my journey to master the intricacies of IT support, information protection, and cybersecurity. This portfolio offers a window into my work and insights, presented with clarity and professionalism.
+Here, you'll find a curated collection of projects and labs that reflect my passion for securing digital infrastructure and solving complex technical challenges. From threat analysis and vulnerability management to network design and incident response, this portfolio highlights my skills in real-world scenarios.
 
-Whether you're interested in technical support solutions, information assurance strategies, or cutting-edge cybersecurity practices, you'll find relevant examples of my work here. If you're interested in connecting or learning more about my experiences, you'll find all the necessary contact information on this page.
+Whether you're exploring solutions in IT support, digging into cybersecurity practices, or just curious about how I approach security problems, there’s something here for you.
 
-Embark on this journey through my portfolio and discover the dedication and expertise that drive my commitment to supporting, securing, and safeguarding digital assets and infrastructure.
+Feel free to connect — I’m always open to sharing insights, collaborating, or diving deeper into the tech that keeps our systems safe.
 
 ## About Me
 
-I am a dedicated IT and Cybersecurity professional with a strong foundation in technical support and a growing expertise in information assurance. My interests span a wide range of areas including:
+Dynamic and detail-oriented IT and cybersecurity professional with over 8 years of experience in technical support, networking, and cybersecurity analysis. Proven expertise in diagnosing and resolving hardware, software, and network issues while maintaining exceptional customer satisfaction. Skilled in leveraging Linux commands, Python scripting, and cybersecurity frameworks like NIST CSF to address vulnerabilities and enhance organizational security. Passionate about leveraging analytical skills and technical knowledge to contribute to innovative IT and cybersecurity solutions.
+
+My interests span a wide range of areas including:
 
 - Technical Support: Providing robust IT solutions and user assistance
 - Information Assurance: Ensuring the integrity, availability, and confidentiality of data
@@ -27,7 +29,7 @@ My passion lies in leveraging my diverse skill set to create secure, efficient, 
 ### Education & Certifications
 
 **Western Governors University**  
-*Expected Graduation Aug. 2025*  
+*Graduated March 2025*  
 Master of Science in Cybersecurity and Information Assurance  
 *Relevant Coursework:*  
 - Security Operations
@@ -45,20 +47,37 @@ Bachelor of Arts in Political Science
 *Georgia Legislative Internship Program:*  
 - Georgia House of Representatives (2021) - Media Service Aide
 
+### Key Projects: 
+
+Wazuh Deployment and Security Monitoring Project:
+•	Deployed Wazuh on my MacOS for endpoint protection, log analysis, and incident detection.
+•	Configured and deployed Wazuh SIEM to enhance my personal network security and detect vulnerabilities. Set up Wazuh agents for log collection and analysis, focusing on CVE-2017-11882.
+•	Implemented continuous monitoring and reporting for proactive threat detection and mitigation.
+
+Graduate Capstone Cybersecurity Project:
+•	Tile: Preventing SQL Injection Attacks in Web Applications
+•	This project focused on identifying and implementing robust security controls to prevent SQL injection attacks.
+•	Designed and implemented security controls to mitigate SQL injection vulnerabilities in web applications. Conducted threat analysis, tested injection attack scenarios, and deployed parameterized queries and input validation techniques to enhance database security.
+
 ### Current Professional Experience:
 
 **SymplyFi**
-October 2022- Present
+October 2024- Present
 Technical Support Analyst
 
-Deliver network and technical support to quick-service restaurant clients: Moe’s, Gusto, Checkers, and Johnny Rockets, resolving ISP
-outages, VOIP issues, and IVR system challenges with precision and efficiency. Manage Zoho ticket queues, ensuring timely incident
-resolution while maintaining SLA compliance and documentation. Diagnose IT issues using Linux commands, Python scripts, remote
-tools, and Icinga monitoring systems. Deploy OpenWRT devices with 4G failover, maintaining network connectivity for over 600
-clients.
+Provide network and IT support to quick-service restaurant clients, including Moe’s, Gusto, Checkers, and Johnny Rockets, troubleshooting ISP outages, VoIP disruptions, and IVR system challenges. Utilize Linux-based systems, TCPdump, and other network diagnostic tools to analyze traffic, identify issues, and ensure optimal performance. Manage Zoho ticket queues, maintaining SLA compliance and detailed documentation. Leverage remote access tools and Icinga monitoring systems to proactively detect and resolve network incidents. Deploy and configure site gateways with 4G Internet failover capabilities, maintaining seamless connectivity for over 600 clients. 
 
-• Achieved 95% SLA compliance, enhancing client satisfaction and reducing resolution times by 20%.
-• Delivered 99% network uptime for clients via optimized deployment of failover devices and configurations.
+•	Improved network troubleshooting efficiency by implementing Linux commands and packet analysis tools, reducing resolution times by 20%. 
+•	Delivered 99% network uptime for clients via optimized deployment of failover devices and configurations.
+
+**Log(N) Pacific**
+October 2022- October 2024
+Cybersecurity Support Analyst--- Remote
+
+Provided cybersecurity support by monitoring, analyzing, and responding to security incidents, ensuring the protection of organizational data and systems. Developed security playbooks, streamlined incident response procedures, and conducted vulnerability assessments to enhance security posture.
+
+•	Reduced average incident resolution time by 35% by developing and maintaining detailed playbooks for common threats, improving team coordination during critical security events.
+•	Conducted vulnerability assessments across 200+ endpoints, identifying and remediating critical security gaps while coordinating with IT teams for patch management.
 
 
 ### Professional Cybersecurity Training
@@ -68,16 +87,14 @@ clients.
 *June 16, 2024 - October 04, 2024*  
 Cybersecurity Analyst and Ethical Hacking Training Program | Atlanta, GA
 
-Completed intensive cybersecurity training, specializing in threat detection, vulnerability assessment, and risk mitigation. Practiced
-ethical hacking, identifying vulnerabilities and providing actionable mitigation strategies for protection. Applied NIST CSF frameworks
-during labs. Participated in offensive security simulations, mastering practical techniques for ethical hacking and penetration testing.
+Completed intensive cybersecurity training, specializing in threat detection, vulnerability assessment, and risk mitigation. Practiced ethical hacking, identifying vulnerabilities and providing actionable mitigation strategies for protection. Applied NIST CSF frameworks during labs. Participated in offensive security simulations, mastering practical techniques for ethical hacking and penetration testing. 
 
-• Reduced simulated security risks by 25% through comprehensive vulnerability assessments and mitigation strategies.
-• Identified 20+ critical vulnerabilities in labs, significantly enhancing network security preparedness and protection.
+•	Reduced simulated security risks by 25% through comprehensive vulnerability assessments and mitigation strategies.
+•	Identified 20+ critical vulnerabilities in labs, significantly enhancing network security preparedness and protection.
 
 ## Certifications
 
-In 2024, I've significantly expanded my expertise in cybersecurity and network technologies, earning several industry-recognized certifications. My current certifications include CompTIA Security+, CompTIA Pen Test +, CompTIA Security Analytics Professional (CSAP), CompTIA CySA+, ISC2 CC (Certified in Cybersecurity), Splunk Core Certified User, Cisco Network Essentials, Cisco Cyber Security Essentials, and Cisco/NDG Linux Essentials. 
+In 2024, I've significantly expanded my expertise in cybersecurity and network technologies, earning several industry-recognized certifications. My current certifications include CompTIA Security+, CompTIA Pen Test +, CompTIA Security Analytics Professional (CSAP-Stackable), CompTIA CySA+, ISC2 CC (Certified in Cybersecurity), Splunk Core Certified User, Cisco Network Essentials, Cisco Cyber Security Essentials, and Cisco/NDG Linux Essentials. 
 
 Additionally, I just recently completed the CompTIA PenTest+ examination to further enhance my skill set. These certifications demonstrate my commitment to staying current with the latest technologies and best practices in the rapidly evolving field of cybersecurity. For verification or to view the digital badges for each certification, please visit my LinkedIn profile. I'm also happy to provide copies of these certifications upon request.
 
