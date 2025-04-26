@@ -107,9 +107,29 @@ Completed intensive cybersecurity training, specializing in threat detection, vu
 
 ## Certifications:
 
-In 2024, I've significantly expanded my expertise in cybersecurity and network technologies, earning several industry-recognized certifications. My current certifications include CompTIA Security+, CompTIA Pen Test +, CompTIA Security Analytics Professional (CSAP-Stackable), CompTIA CySA+, ISC2 CC (Certified in Cybersecurity), Splunk Core Certified User, Cisco Network Essentials, Cisco Cyber Security Essentials, and Cisco/NDG Linux Essentials. 
+I've significantly expanded my expertise in cybersecurity and network technologies, earning several industry-recognized certifications. My current certifications include:
 
-Additionally, I just recently completed the CompTIA PenTest+ examination to further enhance my skill set. These certifications demonstrate my commitment to staying current with the latest technologies and best practices in the rapidly evolving field of cybersecurity. For verification or to view the digital badges for each certification, please visit my LinkedIn profile. I'm also happy to provide copies of these certifications upon request.
+- CompTIA Security+
+
+- CompTIA PenTest+
+
+- CompTIA Security Analytics Professional (CSAP-Stackable)
+
+- CompTIA CySA+
+
+- ISC2 Certified in Cybersecurity (CC)
+
+- Splunk Core Certified User
+
+- Cisco Network Essentials
+
+- Cisco Cyber Security Essentials
+
+- Cisco/NDG Linux Essentials
+
+- CompTIA Network+ (recently completed April 2025)
+
+These certifications reflect my commitment to staying current with the latest technologies and best practices in the ever-evolving field of cybersecurity. For verification or to view the digital badges for each certification, please visit my LinkedIn profile. I'm also happy to provide copies of these certifications upon request.
 
 ## Academic Works:
 
