@@ -127,7 +127,7 @@ I've significantly expanded my expertise in cybersecurity and network technologi
 
 - Cisco/NDG Linux Essentials
 
-- CompTIA Network+ (recently completed April 2025)
+- CompTIA Network+ (recently passed April 2025)
 
 These certifications reflect my commitment to staying current with the latest technologies and best practices in the ever-evolving field of cybersecurity. For verification or to view the digital badges for each certification, please visit my LinkedIn profile. I'm also happy to provide copies of these certifications upon request.
 
