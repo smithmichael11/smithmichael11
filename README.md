@@ -70,7 +70,7 @@ Bachelor of Arts in Political Science
 
 **SymplyFi**
 October 2024- Present
-Technical Support Analyst
+IT Support Enigneer Analyst
 
 Provide network and IT support to quick-service restaurant clients, including Moe’s, Gusto, Checkers, and Johnny Rockets, troubleshooting ISP outages, VoIP disruptions, and IVR system challenges. Utilize Linux-based systems, TCPdump, and other network diagnostic tools to analyze traffic, identify issues, and ensure optimal performance. Manage Zoho ticket queues, maintaining SLA compliance and detailed documentation. Leverage remote access tools and Icinga monitoring systems to proactively detect and resolve network incidents. Deploy and configure site gateways with 4G Internet failover capabilities, maintaining seamless connectivity for over 600 clients. 
 
@@ -127,7 +127,7 @@ I've significantly expanded my expertise in cybersecurity and network technologi
 
 - Cisco/NDG Linux Essentials
 
-- CompTIA Network+ (recently passed April 2025)
+- CompTIA Network+
 
 These certifications reflect my commitment to staying current with the latest technologies and best practices in the ever-evolving field of cybersecurity. For verification or to view the digital badges for each certification, please visit my LinkedIn profile. I'm also happy to provide copies of these certifications upon request.
 
