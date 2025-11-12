@@ -13,18 +13,11 @@ Feel free to connect — I’m always open to sharing insights, collaborating, o
 
 ## About Me:
 
-Dynamic and detail-oriented IT and cybersecurity professional with over 8 years of experience in technical support, networking, and cybersecurity analysis. Proven expertise in diagnosing and resolving hardware, software, and network issues while maintaining exceptional customer satisfaction. Skilled in leveraging Linux commands, Python scripting, and cybersecurity frameworks like NIST CSF to address vulnerabilities and enhance organizational security. Passionate about leveraging analytical skills and technical knowledge to contribute to innovative IT and cybersecurity solutions.
+Hi there! I’m Michael, a Cybersecurity and SaaS Systems Support Engineer based in Atlanta, GA. I hold a Master’s in Cybersecurity and Information Assurance from Western Governors University and have hands-on experience supporting cloud-based platforms and enterprise networks for global clients like Meta, Microsoft, and UPS. At SymplyFi, I delivered technical and network support to over 600 client sites, ensuring secure connectivity, rapid incident response, and reliable failover solutions through proactive monitoring and automation.
 
-My interests span a wide range of areas including:
+I specialize in SaaS platform support, network monitoring, and cybersecurity operations, with a focus on maintaining secure, reliable, and high-performing systems. My background includes troubleshooting complex cloud and application issues, analyzing SQL data to identify root causes, and monitoring large-scale client networks using Icinga to ensure uptime and business continuity. I’ve also developed automation workflows with Zoho CRM, created knowledge base documentation, and applied incident response and vulnerability management principles learned through my cybersecurity training to strengthen system defenses and streamline operations.
 
-- Technical Support: Providing robust IT solutions and user assistance
-- Information Assurance: Ensuring the integrity, availability, and confidentiality of data
-- Network Security: Monitoring and implementing secure network architectures
-- Cybersecurity: Protecting digital assets through various security measures
-- Ethical Hacking: Identifying vulnerabilities to strengthen system defenses
-- Risk Management: Assessing and mitigating potential security risks
-
-My passion lies in leveraging my diverse skill set to create secure, efficient, and reliable IT environments. I am committed to continuous learning and staying ahead of the ever-evolving technology landscape to provide the best possible support and security solutions.
+Here, you’ll find my cybersecurity projects and network simulations that reflect my journey toward mastering the intersection of technology, security, and problem-solving.
 
 ### Education & Certifications:
 
@@ -69,7 +62,7 @@ Bachelor of Arts in Political Science
 ### Current Professional Experience:
 
 **SymplyFi**
-October 2024- Present
+October 2024- Nov. 2025
 IT Support Enigneer Analyst
 
 Provide network and IT support to quick-service restaurant clients, including Moe’s, Gusto, Checkers, and Johnny Rockets, troubleshooting ISP outages, VoIP disruptions, and IVR system challenges. Utilize Linux-based systems, TCPdump, and other network diagnostic tools to analyze traffic, identify issues, and ensure optimal performance. Manage Zoho ticket queues, maintaining SLA compliance and detailed documentation. Leverage remote access tools and Icinga monitoring systems to proactively detect and resolve network incidents. Deploy and configure site gateways with 4G Internet failover capabilities, maintaining seamless connectivity for over 600 clients. 
@@ -78,17 +71,6 @@ Provide network and IT support to quick-service restaurant clients, including Mo
 •	Improved network troubleshooting efficiency by implementing Linux commands and packet analysis tools, reducing resolution times by 20%. 
 
 •	Delivered 99% network uptime for clients via optimized deployment of failover devices and configurations.
-
-**Log(N) Pacific**
-October 2022- October 2024
-Cybersecurity Support Analyst--- Remote
-
-Provided cybersecurity support by monitoring, analyzing, and responding to security incidents, ensuring the protection of organizational data and systems. Developed security playbooks, streamlined incident response procedures, and conducted vulnerability assessments to enhance security posture.
-
-
-•	Reduced average incident resolution time by 35% by developing and maintaining detailed playbooks for common threats, improving team coordination during critical security events.
-
-•	Conducted vulnerability assessments across 200+ endpoints, identifying and remediating critical security gaps while coordinating with IT teams for patch management.
 
 
 ### Professional Cybersecurity Training
