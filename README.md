@@ -13,9 +13,7 @@ Feel free to connect — I’m always open to sharing insights, collaborating, o
 
 ## About Me:
 
-Hi there! I’m Michael, a Cybersecurity and SaaS Systems Support Engineer based in Atlanta, GA. I hold a Master’s in Cybersecurity and Information Assurance from Western Governors University and have hands-on experience supporting cloud-based platforms and enterprise networks for global clients like Meta, Microsoft, and UPS. At SymplyFi, I delivered technical and network support to over 600 client sites, ensuring secure connectivity, rapid incident response, and reliable failover solutions through proactive monitoring and automation.
-
-I specialize in SaaS platform support, network monitoring, and cybersecurity operations, with a focus on maintaining secure, reliable, and high-performing systems. My background includes troubleshooting complex cloud and application issues, analyzing SQL data to identify root causes, and monitoring large-scale client networks using Icinga to ensure uptime and business continuity. I’ve also developed automation workflows with Zoho CRM, created knowledge base documentation, and applied incident response and vulnerability management principles learned through my cybersecurity training to strengthen system defenses and streamline operations.
+Hi there! I’m Michael, a Cybersecurity and IT Support Professional based in Atlanta, GA. I hold a Master’s in Cybersecurity and Information Assurance from Western Governors University and have hands-on experience supporting cloud-based platforms and enterprise networks for global clients like Meta, Microsoft, and UPS. At SymplyFi, I delivered technical and network support to over 600 client sites, ensuring secure connectivity, rapid incident response, and reliable failover solutions through proactive monitoring and automation.
 
 Here, you’ll find my cybersecurity projects and network simulations that reflect my journey toward mastering the intersection of technology, security, and problem-solving.
 
@@ -42,6 +40,12 @@ Bachelor of Arts in Political Science
 
 ### Key Projects: 
 
+
+### Vulnerability Management and Threat Hunting Projects:
+
+•	Platforms and Technology Used: Tenable.io, SIEM (Microsoft Sentinel), EDR (Defender for Endpoint), Azure VMs, KQL.
+
+
 **Wazuh Deployment and Security Monitoring Project (See Details Below):**
 
 •	Deployed Wazuh on my MacOS for endpoint protection, log analysis, and incident detection.
@@ -58,19 +62,6 @@ Bachelor of Arts in Political Science
 •	This project focused on identifying and implementing robust security controls to prevent SQL injection attacks.
 
 •	Designed and implemented security controls to mitigate SQL injection vulnerabilities in web applications. Conducted threat analysis, tested injection attack scenarios, and deployed parameterized queries and input validation techniques to enhance database security.
-
-### Current Professional Experience:
-
-**SymplyFi**
-October 2024- Nov. 2025
-IT Support Enigneer Analyst
-
-Provide network and IT support to quick-service restaurant clients, including Moe’s, Gusto, Checkers, and Johnny Rockets, troubleshooting ISP outages, VoIP disruptions, and IVR system challenges. Utilize Linux-based systems, TCPdump, and other network diagnostic tools to analyze traffic, identify issues, and ensure optimal performance. Manage Zoho ticket queues, maintaining SLA compliance and detailed documentation. Leverage remote access tools and Icinga monitoring systems to proactively detect and resolve network incidents. Deploy and configure site gateways with 4G Internet failover capabilities, maintaining seamless connectivity for over 600 clients. 
-
-
-•	Improved network troubleshooting efficiency by implementing Linux commands and packet analysis tools, reducing resolution times by 20%. 
-
-•	Delivered 99% network uptime for clients via optimized deployment of failover devices and configurations.
 
 
 ### Professional Cybersecurity Training
