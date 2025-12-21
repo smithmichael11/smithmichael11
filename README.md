@@ -11,10 +11,11 @@ Whether you’re exploring IT solutions, diving into cybersecurity practices, or
 
 Feel free to connect—I’m always open to sharing insights, collaborating, or exploring the technologies that keep our systems safe.
 
-Check out my [Projects Page](https://github.com/smithmichael11/projects)!
+## Check out my [Projects Page](https://github.com/smithmichael11/projects)!
 
 
-## Academic Works:
+## Cybersecurity Portfolio: Master of Science in Cybersecurity and Information Assurance:
+This repository contains a collection of high-level academic and practical projects completed during my Master's program, focusing on cloud security, incident response, network architecture, and penetration testing.
 
 ### Network Security and Cybersecurity Projects
 
@@ -75,13 +76,4 @@ A detailed penetration testing report for Western View Hospital, focusing on sec
 ([D484.Penetration Test Report-Western View Hospital.pdf](https://github.com/user-attachments/files/17299425/D484.Penetration.Test.Report-Western.View.Hospital.pdf))
 
 
-These academic works demonstrate my proficiency in:
-
-- Network security design and implementation
-- Cloud security and Azure environment configuration
-- Regulatory compliance (PCI DSS, HIPAA, FISMA, NIST)
-- Incident response and threat mitigation
-- Penetration testing and vulnerability assessment
-- Risk assessment and management
-- Technical writing and documentation
 
