@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c9df9145-8d52-4002-aa7f-eb859b99f642" width="850" height="250" style="object-fit: cover; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/c9df9145-8d52-4002-aa7f-eb859b99f642" width="850" height="320" style="object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
 </div>
 
 Welcome to My Portfolio
