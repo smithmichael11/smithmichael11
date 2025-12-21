@@ -1,16 +1,15 @@
 
 ![ChatGPT Image Apr 17, 2025, 07_37_32 PM](https://github.com/user-attachments/assets/c9df9145-8d52-4002-aa7f-eb859b99f642)
 
-# Welcome to My Portfolio
+Welcome to My Portfolio
 
-Thanks for stopping by! This is where I showcase my journey and hands-on experience in Information Assurance, Technical Support, and Cybersecurity.
+Thank you for visiting! This is where I showcase my hands-on experience and journey in Information Assurance, Technical Support, and Cybersecurity.
 
-Here, you'll find a curated collection of projects and labs that reflect my passion for securing digital infrastructure and solving complex technical challenges. From threat analysis and vulnerability management to network design and incident response, this portfolio highlights my skills in real-world scenarios.
+Inside, you'll find a curated collection of projects and labs that reflect my passion for securing digital infrastructure and solving complex technical challenges. From threat analysis and vulnerability management to network design and incident response, this portfolio highlights skills I’ve applied in real-world scenarios.
 
-Whether you're exploring solutions in IT support, digging into cybersecurity practices, or just curious about how I approach security problems, there’s something here for you.
+Whether you’re exploring IT solutions, diving into cybersecurity practices, or just curious about my approach to solving security challenges, there’s something here for you.
 
-Feel free to connect — I’m always open to sharing insights, collaborating, or diving deeper into the tech that keeps our systems safe.
-
+Feel free to connect—I’m always open to sharing insights, collaborating, or exploring the technologies that keep our systems safe.
 
 Check out my [Projects Page](https://github.com/smithmichael11/projects)!
 
