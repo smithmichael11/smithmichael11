@@ -1,5 +1,6 @@
-
-![ChatGPT Image Apr 17, 2025, 07_37_32 PM](https://github.com/user-attachments/assets/c9df9145-8d52-4002-aa7f-eb859b99f642)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c9df9145-8d52-4002-aa7f-eb859b99f642" width="800" alt="Cybersecurity Portfolio Banner">
+</div>
 
 Welcome to My Portfolio
 
