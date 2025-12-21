@@ -17,25 +17,11 @@ Explore my hands-on cybersecurity, IT support, and information assurance work on
 
 ### Home Network Penetration Testing Reporting & Legal Authorization Project | Technology Law & Cybersecurity Engagement | Focus: Computer Fraud and Abuse Act (CFAA), Cybersecurity Legal Frameworks
 
-•	Drafted comprehensive pre-engagement legal authorization suite including Authorization to Test, Rules of Engagement, Statement of Work, and Confidentiality Agreement; analyzed CFAA (18 U.S.C. § 1030) risk exposure and structured explicit written consent to distinguish authorized testing from unlawful access.
-
-•	Defined scope boundaries, prohibited activities, and escalation procedures to mitigate civil and criminal liability; integrated legal governance controls with NIST/PTES technical methodology.
-
-•	Performed internal penetration test on home network, migrating devices from ISP modem to hardened GL.iNet router with segregated LAN and Guest SSIDs.
-
-•	Performed comprehensive network security assessments, vulnerability analysis, and embedded device hardening using industry-standard tools and methodologies. Practical expertise in network architecture design, including migrating home networks from ISP modem configurations to hardened router deployments with segregated wireless networks.
-
-
 ### Home Network Penetration Testing & Router Hardening Lab | GL.iNet OpenWRT Security Assessment | Tools: Nmap, tcpdump, Dropbear SSH, OpenWRT/Linux, netstat
 
-•	Performed internal penetration test on home network, migrating devices from ISP modem to hardened GL.iNet router with segregated LAN and Guest SSIDs.
+### WordPress Security Governance & Legal Authorization | Dec. 2025 | Technology Law & Cybersecurity Engagement | Focus: Computer Fraud and Abuse Act (CFAA), Risk Governance
 
-•	Conducted reconnaissance using Nmap to identify 9 active hosts and enumerate services: hardened SSH with key-based authentication and disabled password login
-
-•	Deployed tcpdump f.or traffic monitoring and validated network segmentation through ARP/neighbor table analysis.
-
-•	Identified service exposure on endpoints (printer interfaces, VNC, SMB) and provided prioritized remediation recommendations following NIST/PTES methodology.
-
+### WordPress Security Assessment & Containerized Lab | Dec. 2025| Authorized Web Application Security Assessment | Tools: Docker, WPScan, Nikto, Nmap, Apache/PHP, cURL
 
 ## Cybersecurity Portfolio: Academic Works | Master of Science in Cybersecurity and Information Assurance |
 
