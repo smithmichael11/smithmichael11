@@ -58,7 +58,7 @@ A comprehensive cloud security implementation plan for SWBTL LLC's Microsoft Azu
 - Compliance with FISMA, PCI DSS, and NIST SP 800-53 standards
 
 
-([View Full Document](https://github.com/user-attachments/files/17299419/D485.Final.Report.Outline.for.Cloud.Security.Implementation.pdf)
+[View Full Document](https://github.com/user-attachments/files/17299419/D485.Final.Report.Outline.for.Cloud.Security.Implementation.pdf)
 
 
 #### 4. Penetration Testing Report: Western View Hospital
@@ -73,7 +73,7 @@ A detailed penetration testing report for Western View Hospital, focusing on sec
 - Recommendations for improvement based on industry best practices and frameworks
 - Solutions to mitigate risks associated with critical vulnerabilities like EternalBlue
 
-([View Full Document](https://github.com/user-attachments/files/17299425/D484.Penetration.Test.Report-Western.View.Hospital.pdf)
+[View Full Document](https://github.com/user-attachments/files/17299425/D484.Penetration.Test.Report-Western.View.Hospital.pdf)
 
 
 
