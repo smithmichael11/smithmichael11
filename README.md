@@ -15,18 +15,21 @@ Feel free to connect—I’m always open to sharing insights, collaborating, or 
 ## 🔗 Featured Projects
 Explore my hands-on cybersecurity, IT support, and information assurance work on my [Projects Page](https://github.com/smithmichael11/projects).
 
-### Home Network Penetration Testing Reporting & Legal Authorization Project | Technology Law & Cybersecurity Engagement | Focus: Computer Fraud and Abuse Act (CFAA), Cybersecurity Legal Frameworks
+⚖️ Home Network Penetration Testing Reporting & Legal Authorization | Dec. 2025
+Technology Law & Cybersecurity Engagement | Focus: Computer Fraud and Abuse Act (CFAA) 📜, Cybersecurity Legal Frameworks 🛡️
 
-### Home Network Penetration Testing & Router Hardening Lab | GL.iNet OpenWRT Security Assessment | Tools: Nmap, tcpdump, Dropbear SSH, OpenWRT/Linux, netstat
+🏠 Home Network Penetration Testing & Router Hardening Lab | Dec. 2025
+GL.iNet OpenWRT Security Assessment | Tools: Nmap 🔍, tcpdump 🌐, Dropbear SSH 🔑, OpenWRT/Linux 🐧, netstat 📊
 
-### WordPress Security Governance & Legal Authorization | Dec. 2025 | Technology Law & Cybersecurity Engagement | Focus: Computer Fraud and Abuse Act (CFAA), Risk Governance
+⚖️ WordPress Security Governance & Legal Authorization | Dec. 2025
+Technology Law & Cybersecurity Engagement | Focus: Computer Fraud and Abuse Act (CFAA) 📜, Risk Governance 🛡️
 
-### WordPress Security Assessment & Containerized Lab | Dec. 2025| Authorized Web Application Security Assessment | Tools: Docker, WPScan, Nikto, Nmap, Apache/PHP, cURL
+🐳 WordPress Security Assessment & Containerized Lab | Dec. 2025
+Authorized Web Application Security Assessment | Tools: Docker 🐋, WPScan 🛠️, Nikto 🕸️, Nmap ⚡, Apache/PHP 🐘, cURL ⌨️
 
-## Cybersecurity Portfolio: Academic Works | Master of Science in Cybersecurity and Information Assurance |
 
-This repository contains a collection of high-level academic and practical projects completed during my Master's program, focusing on cloud security, incident response, network architecture, and penetration testing.
-
+## 🎓 Cybersecurity Portfolio: Academic Works
+Master of Science in Cybersecurity and Information Assurance | WGU 🏛️
 ### Network Security and Cybersecurity Projects
 
 #### 1. Network Merger and Implementation Plan
