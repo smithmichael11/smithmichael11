@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c9df9145-8d52-4002-aa7f-eb859b99f642" width="800" alt="Cybersecurity Portfolio Banner">
+  <img src="https://github.com/user-attachments/assets/c9df9145-8d52-4002-aa7f-eb859b99f642" width="600" height="150" style="object-fit: cover;">
 </div>
 
 Welcome to My Portfolio
