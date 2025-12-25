@@ -15,14 +15,9 @@ Feel free to connect—I’m always open to sharing insights, collaborating, or 
 ## 🔗 Featured Projects
 Explore my hands-on cybersecurity, IT support, and information assurance work on my [Projects Page](https://github.com/smithmichael11/projects).
 
-⚖️ Home Network Penetration Testing Reporting & Legal Authorization | Dec. 2025
-Technology Law & Cybersecurity Engagement | Focus: Computer Fraud and Abuse Act (CFAA) 📜, Cybersecurity Legal Frameworks 🛡️
 
 🏠 Home Network Penetration Testing & Router Hardening Lab | Dec. 2025
 GL.iNet OpenWRT Security Assessment | Tools: Nmap 🔍, tcpdump 🌐, Dropbear SSH 🔑, OpenWRT/Linux 🐧, netstat 📊
-
-⚖️ WordPress Security Governance & Legal Authorization | Dec. 2025
-Technology Law & Cybersecurity Engagement | Focus: Computer Fraud and Abuse Act (CFAA) 📜, Risk Governance 🛡️
 
 🐳 WordPress Security Assessment & Containerized Lab | Dec. 2025
 Authorized Web Application Security Assessment | Tools: Docker 🐋, WPScan 🛠️, Nikto 🕸️, Nmap ⚡, Apache/PHP 🐘, cURL ⌨️
