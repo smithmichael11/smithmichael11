@@ -17,10 +17,10 @@ Explore my hands-on cybersecurity, IT support, and information assurance work on
 
 
 🏠 Home Network Penetration Testing & Router Hardening Lab | Dec. 2025
-GL.iNet OpenWRT Security Assessment | Tools: Nmap 🔍, tcpdump 🌐, Dropbear SSH 🔑, OpenWRT/Linux 🐧, netstat 📊
+GL.iNet OpenWRT Security Assessment | Tools: Nmap , tcpdump , Dropbear SSH , OpenWRT/Linux , netstat 
 
 🐳 WordPress Security Assessment & Containerized Lab | Dec. 2025
-Authorized Web Application Security Assessment | Tools: Docker 🐋, WPScan 🛠️, Nikto 🕸️, Nmap ⚡, Apache/PHP 🐘, cURL ⌨️
+Authorized Web Application Security Assessment | Tools: Docker , WPScan , Nikto , Nmap ⚡, Apache/PHP , cURL 
 
 
 ## 🎓 Cybersecurity Portfolio: Academic Works
