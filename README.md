@@ -16,8 +16,9 @@ Feel free to connect—I’m always open to sharing insights, collaborating, or 
 Explore my hands-on cybersecurity, IT support, and information assurance work on my [Projects Page](https://github.com/smithmichael11/projects).
 
 
-🏠 Home Network Penetration Testing & Router Hardening Lab | Dec. 2025
-GL.iNet OpenWRT Security Assessment | Tools: Nmap , tcpdump , Dropbear SSH , OpenWRT/Linux , netstat 
+🏠 HomeShield CLI — Local Home SOC & Network Security Dashboard
+
+Built a Python-based defensive cybersecurity platform that turns an authorized home network into a local SOC-style dashboard. HomeShield performs safe device discovery, scan target review, service checks, router/IoT hardening analysis, evidence tracking, remediation planning, and professional reporting. The project includes source-of-truth device identity management, SOC case workflows, metadata-only traffic summaries, automation modes, Gmail weekly reporting, and scrubbed demo export for safe portfolio sharing. Designed with strict privacy and safety controls: no exploitation, credential attacks, payload capture, router modification, or public-network scanning.
 
 🐳 WordPress Security Assessment & Containerized Lab | Dec. 2025
 Authorized Web Application Security Assessment | Tools: Docker , WPScan , Nikto , Nmap ⚡, Apache/PHP , cURL 
