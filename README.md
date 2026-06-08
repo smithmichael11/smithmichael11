@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c9df9145-8d52-4002-aa7f-eb859b99f642" width="1000" height="450" style="object-fit: cover; border-radius: 15px; border: 1px solid #30363d;">
-</div>
+
+<img width="1245" height="502" alt="image" src="https://github.com/user-attachments/assets/d4fc2d2e-bbb8-4419-a1d8-177a2a9ac945" />
+
 
 ## Welcome to My Portfolio
 
