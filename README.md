@@ -18,6 +18,18 @@ Feel free to connect — I’m always open to sharing insights, collaborating, a
 
 ---
 
+## ⭐ Current Role Impact Snapshot- Costar Group, Techincal Product Analyst
+
+“Michael doesn’t just close cases — he translates complex technical issues into clear answers, practical fixes, and confident next steps.”
+
+With **417 closed cases this year** and a **4.8/5 customer satisfaction score** for recent scored feedback, my work reflects a balance of technical troubleshooting, client communication, SaaS support, data validation, access analysis, and enterprise problem-solving. From restoring access and resolving configuration issues to guiding users through reporting, permissions, and system workflows, I focus on making every support interaction clear, useful, and resolution-driven.
+
+One client said it best: **“Michael took the time to figure out what I needed and was able to provide guidance. I appreciated the customer service.”**
+
+That is the standard I bring to every case: investigate carefully, communicate clearly, solve responsibly, and leave the client more confident than when they reached out. 🔧💻⭐
+
+---
+
 ## 🔗 Featured Projects
 Explore my hands-on cybersecurity, IT support, and information assurance work on my [Projects Page](https://github.com/smithmichael11/projects).
 
