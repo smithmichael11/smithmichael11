@@ -4,13 +4,19 @@
 
 ## Welcome to My Portfolio
 
-Thank you for visiting! This is where I showcase my hands-on experience and journey in Information Assurance, Technical Support, and Cybersecurity.
+# 👋 Hi, Welcome to My Portfolio
 
-Inside, you'll find a curated collection of projects and labs that reflect my passion for securing digital infrastructure and solving complex technical challenges. From threat analysis and vulnerability management to network design and incident response, this portfolio highlights skills I’ve applied in real-world scenarios.
+Thank you for visiting! This portfolio showcases my hands-on experience and growth across Information Assurance, Technical Support, Cybersecurity, and technical problem-solving.
 
-Whether you’re exploring IT solutions, diving into cybersecurity practices, or just curious about my approach to solving security challenges, there’s something here for you.
+Here, you’ll find a curated collection of projects, labs, documentation, and practical work that reflect my passion for securing digital systems and improving how technology supports people and organizations. My work spans areas such as network security, vulnerability management, threat analysis, incident response, automation, data analysis, and technical support operations.
 
-Feel free to connect—I’m always open to sharing insights, collaborating, or exploring the technologies that keep our systems safe.
+Each project highlights not only what I built, but also the tools I used, the challenges I worked through, the skills I developed, and the lessons I learned along the way. 🔐💻📊
+
+Whether you’re exploring cybersecurity practices, IT support solutions, automation workflows, or my approach to solving technical challenges, I hope this portfolio gives you a clear view of how I think, build, troubleshoot, and improve.
+
+Feel free to connect — I’m always open to sharing insights, collaborating, and exploring the technologies that help keep systems secure, reliable, and resilient. 🚀
+
+---
 
 ## 🔗 Featured Projects
 Explore my hands-on cybersecurity, IT support, and information assurance work on my [Projects Page](https://github.com/smithmichael11/projects).
@@ -20,9 +26,14 @@ Explore my hands-on cybersecurity, IT support, and information assurance work on
 
 Built a Python-based defensive cybersecurity platform that turns an authorized home network into a local SOC-style dashboard. HomeShield performs safe device discovery, scan target review, service checks, router/IoT hardening analysis, evidence tracking, remediation planning, and professional reporting. The project includes source-of-truth device identity management, SOC case workflows, metadata-only traffic summaries, automation modes, Gmail weekly reporting, and scrubbed demo export for safe portfolio sharing. Designed with strict privacy and safety controls: no exploitation, credential attacks, payload capture, router modification, or public-network scanning.
 
+📈🤖 Sapphire Quant Lab — AI Trading Bot Safety Automation
+
+A Python-based financial technology project focused on safe, auditable trading automation. The lab explores market scanning, paper-trading workflows, risk controls, proposal review, dashboard design, and simulation-first execution. Built with strict safety gates, logging, kill-switch logic, and paper-only controls, this project strengthened my skills in Python automation, financial data analysis, risk management, testing, and responsible AI-assisted decision workflows.
+
 🐳 WordPress Security Assessment & Containerized Lab | Dec. 2025
 Authorized Web Application Security Assessment | Tools: Docker , WPScan , Nikto , Nmap ⚡, Apache/PHP , cURL 
 
+---
 
 ## 🎓 Cybersecurity Portfolio: Academic Works
 Master of Science in Cybersecurity and Information Assurance | WGU 🏛️
